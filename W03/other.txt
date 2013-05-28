@@ -1,0 +1,908 @@
+W03n0000_p0001a01_##
+W03n0000_p0001a02Q1#卷首語
+W03n0000_p0001a03A##方廣錩
+W03n0000_p0001a04_##
+W03n0000_p0001a05_##<p,0,2>光陰迅忽，從1994年夏醞釀編輯《藏外佛教文獻》算
+W03n0000_p0001a06_##起，至今已兩年有餘，而《藏外佛教文獻》的第三輯也終於
+W03n0000_p0001a07_##送到讀者諸君面前。從第一輯出版以來，我們收到海內
+W03n0000_p0001a08_##外不少讀者的來信。有的對我們的工作表示熱情的支
+W03n0000_p0001a09_##持；有的向我們提供新的未入藏佛教文獻的信息；有的對
+W03n0000_p0001a10_##我們的整理本提出補正意見；也有的寄來資助款項，希望
+W03n0000_p0001a11_##我們能夠把這件有意義的事情堅持做下去。在此，謹代
+W03n0000_p0001a12_##表編委會全體成員，向關心本書成長的諸位讀者表示衷
+W03n0000_p0001a13_##心的感謝；向對本書出版給予大力支持的中國佛教文化
+W03n0000_p0001a14_##研究所、香港志蓮淨苑、山西省佛教文化事業總公司及其
+W03n0000_p0001a15_##他有關單位與個人表示衷心的感謝。我們相信，在大家
+W03n0000_p0001a16_##的支持與幫助下，《藏外佛教文獻》一定能夠堅持出版下
+W03n0000_p0001a17_##去，直至完成它的歷史使命。
+W03n0000_p0001a18_##<p,0,2>在此，先把《藏外佛教文獻》第三輯刊登的文獻作一
+W03n0000_p0001a19_##個簡單的介紹。
+W03n0000_p0001a20_##<p,0,2>「敦煌禪籍」專欄刊登敦煌禪文獻兩篇。
+W03n0000_p0001a21_##<p,0,2>《菩薩總持法》由禪宗南宗慧能系傳人所撰，內容與
+W03n0000_p0001a22_##託名菩提達摩所撰的《觀心論》有類似之處，兩者的關係
+W03n0000_p0001a23_##有待研究。這一文獻最早由日本田中良昭先生在法國敦
+W03n0000_p0001a24_##煌特藏中發現，發表過錄文與研究。這次則由日本著名
+W03n0000_p0001a25_##佛教學者上山大峻先生與我國敦煌研究院年輕研究人員
+W03n0000_p0002a01_##袁德領先生參照在北京圖書館新發現的該文獻的另一個
+W03n0000_p0002a02_##抄本，按照《藏外佛教文獻》的體例要求重新作了整理。
+W03n0000_p0002a03_##這樣，就給研究者提供了一個新的整理本。敦煌學已經
+W03n0000_p0002a04_##是一門世界性的學問；佛教文獻的整理本來就是一項需
+W03n0000_p0002a05_##要不斷精益求精的工作。因此，我們歡迎世界各國的有
+W03n0000_p0002a06_##關學者都來從事敦煌遺書中佛教文獻的整理，歡迎有關
+W03n0000_p0002a07_##學者對已經整理過的文獻作進一步的精益求精的努力，
+W03n0000_p0002a08_##共同把這項人類的文化事業做好。我們也熱烈歡迎所有
+W03n0000_p0002a09_##從事這一工作的先生在《藏外佛教文獻》上發表他們在這
+W03n0000_p0002a10_##一方面的研究成果。
+W03n0000_p0002a11_##<p,0,2>《大乘起世論》也是禪宗南宗慧能系傳人的作品。從
+W03n0000_p0002a12_##思想上看，這篇文獻所反映的南宗思想更為純熟；從風格
+W03n0000_p0002a13_##上看，這篇文獻已經出現類似棒喝的機鋒。考慮到該文
+W03n0000_p0002a14_##獻抄寫於敦煌被吐蕃統治時期，因此，它的產生年代大約
+W03n0000_p0002a15_##在公元八世紀上半葉。瞭解《五燈會元》這類後代禪宗典
+W03n0000_p0002a16_##籍的讀者在閱讀本文獻時一定會感到十分面熟，這說明
+W03n0000_p0002a17_##南宗的若干宗風可以追溯到本文獻產生的年代，這對於
+W03n0000_p0002a18_##禪宗的研究無疑具有重要意義。我經常考慮這樣一個問
+W03n0000_p0002a19_##題：禪宗到底是把佛教理論提到到一個前所未有的新高
+W03n0000_p0002a20_##度？還是把佛教理論推入了無法發展的死胡同？這個問
+W03n0000_p0002a21_##題我還在思考，沒有能夠得出結論。本文獻對我們追溯
+W03n0000_p0002a22_##禪宗思想的發展歷程提供了新的資料。
+W03n0000_p0002a23_##<p,0,2>在以後的諸輯中，《藏外佛教文獻》將繼續致力於對
+W03n0000_p0002a24_##敦煌禪文獻的整理，也歡迎各界朋友的指導與支持。
+W03n0000_p0002a25_##<p,0,2>「三藏論疏」專欄刊登文獻六篇。
+W03n0000_p0003a01_##<p,0,2>唐道液所撰的《淨名經集解關中疏》的卷上已經在第
+W03n0000_p0003a02_##二輯中刊出，本輯則繼續刊登其下卷。如第二輯《卷首
+W03n0000_p0003a03_##語》所說，該文獻雖曾被錄文發表在《大正藏》第85卷中，
+W03n0000_p0003a04_##但該錄文缺失從第五品後半部分到第七品前半部分，約
+W03n0000_p0003a05_##一萬餘字，且所選底本不是很好，並缺少比較認真的校
+W03n0000_p0003a06_##勘。本輯刊登的卷下正包含了《大正藏》缺失的部分，想
+W03n0000_p0003a07_##必會引起有關人士的興趣。細心的讀者可能會注意到，
+W03n0000_p0003a08_##在本輯發表的卷下中，我們又校改了《維摩詰所說經》大
+W03n0000_p0003a09_##藏傳本的若干錯字。像《維摩詰所說經》這樣重要的經
+W03n0000_p0003a10_##典，且經流傳千年，收入大藏，歷經前代多少人校勘，但它
+W03n0000_p0003a11_##的大藏傳本仍遺憾地留有一些錯字。不僅《維摩詰所說
+W03n0000_p0003a12_##經》，諸如《妙法蓮華經》、《俱舍論》等，都有這樣的問題。
+W03n0000_p0003a13_##這充分說明佛教文獻整理的難度之大；也充分說明今天
+W03n0000_p0003a14_##我們重新整理佛教文獻之必要。
+W03n0000_p0003a15_##<p,0,2>《因緣心論頌》、《因緣心論釋》與《因緣心論釋開決
+W03n0000_p0003a16_##記》三篇文獻恰成一個系列。其中《因緣心論頌》與《因緣
+W03n0000_p0003a17_##心論釋》都是印度佛教著名理論家、中觀學說的創始人龍
+W03n0000_p0003a18_##樹所撰。緣起論本是釋迦牟尼創立的初期佛教的基本理
+W03n0000_p0003a19_##論，它通過對十二有支相互生滅的論述，說明世界萬物都
+W03n0000_p0003a20_##因一定的條件而產生、存在與滅亡，從而論證了有為法的
+W03n0000_p0003a21_##不可怙恃性與涅槃法的真實性。在釋迦牟尼的理論體系
+W03n0000_p0003a22_##中，緣起論是對世界萬有存在方式的一種詮釋，他並沒有
+W03n0000_p0003a23_##否定世界萬有本身的存在。但龍樹認為，既然萬有都因
+W03n0000_p0003a24_##一定的條件才存在與變化，則說明惟有條件才是最基本
+W03n0000_p0003a25_##的，而萬有本身是派生的，由此導出「緣起性空」這一中觀
+W03n0000_p0004a01_##學說的基本理論。而《因緣心論頌》與《因緣心論釋》就是
+W03n0000_p0004a02_##龍樹將初期佛教的緣起論改造為緣起性空說的重要著
+W03n0000_p0004a03_##作，在龍樹的全部著作及中觀理論中都佔有特殊的地位。
+W03n0000_p0004a04_##遺憾的是，這兩部如此重要的著作約於八世紀左右在西
+W03n0000_p0004a05_##北譯出後，一直不為中原人士所知，自然也沒有收入中國
+W03n0000_p0004a06_##傳統的大藏經。本世紀在敦煌遺書中被發現後，人們如
+W03n0000_p0004a07_##獲至寶，隨即將它們編入《大正藏》第32卷。由於當時的
+W03n0000_p0004a08_##條件有限，收入《大正藏》的文本僅依據英國所藏的兩號
+W03n0000_p0004a09_##敦煌遺書錄文校勘，故有若干錯漏。本輯發表的《因緣心
+W03n0000_p0004a10_##論頌》依據七號敦煌遺書校勘錄文，《因緣心論釋》則依據
+W03n0000_p0004a11_##八號敦煌遺書校勘錄文。應該說，新整理本的錄文校勘
+W03n0000_p0004a12_##質量是比較高的。《因緣心論釋開決記》應為敦煌某僧人
+W03n0000_p0004a13_##所撰，估計是吐蕃統治時期的某位義學高僧，遺憾的是我
+W03n0000_p0004a14_##們現在還沒有資料能考證出他的姓名。該《開決記》對龍
+W03n0000_p0004a15_##樹的頌與釋都有較為正確的把握，因此對中觀理論作了
+W03n0000_p0004a16_##很好的闡發。把這三篇文獻對照起來閱讀，可以使我們
+W03n0000_p0004a17_##對印度佛教中觀思想有更加深刻的瞭解。該《開決記》也
+W03n0000_p0004a18_##曾經被錄文收入《大正藏》第85卷，但錄文所依據的英國
+W03n0000_p0004a19_##藏本首存尾殘；且祇有一號，沒有校本。本輯發表的整理
+W03n0000_p0004a20_##本則依據四號敦煌遺書錄文校勘，基本恢復了原文獻的
+W03n0000_p0004a21_##本來面貌。相信這三篇文獻的再次整理發表對研究龍樹
+W03n0000_p0004a22_##及中觀思想的先生們會有若干助益。
+W03n0000_p0004a23_##<p,0,2>《金剛經》是佛教的重要著作，我國古代曾翻譯過六
+W03n0000_p0004a24_##次，其中以鳩摩羅什的譯本最為流通，所以現在流傳的有
+W03n0000_p0004a25_##關《金剛經》的註疏所註釋的大抵均為羅什譯本。在敦煌
+W03n0000_p0005a01_##遺書中，鳩摩羅什的譯本及註疏也占所存《金剛經》及註
+W03n0000_p0005a02_##疏的絕大部分。但本輯發表的《金剛經疏》卻是對元魏菩
+W03n0000_p0005a03_##提流支譯本的註疏，所以彌足珍貴。不僅如此，該文獻對
+W03n0000_p0005a04_##《金剛經》的釋義頗為精當扼要，是關於《金剛經》的優秀
+W03n0000_p0005a05_##註疏之一。該註疏未為歷代經錄所著錄，也未為歷代大
+W03n0000_p0005a06_##藏經所收。幾年前在北京圖書館發現，共三號，經鑒定，
+W03n0000_p0005a07_##該三號體例相同，文字相同，內容前後相屬，本為同一文
+W03n0000_p0005a08_##獻而後撕裂的。而且該寫卷的各紙曾經脫落過，後人綴
+W03n0000_p0005a09_##補時粗心，故現存寫卷的先後順序有錯亂。這次整理已
+W03n0000_p0005a10_##經按照正確的次序恢復原狀。上述三號合綴後，所存註
+W03n0000_p0005a11_##疏的內容，相當於註疏羅什本《金剛經》的第十四分到第
+W03n0000_p0005a12_##三十二分，亦即首部仍有殘缺。但值得高興的是該文獻
+W03n0000_p0005a13_##的首部最近由參與北京圖書館敦煌遺書編目的趙端禾先
+W03n0000_p0005a14_##生在英國所藏敦煌遺書中發現。這樣，這個文獻雖然還
+W03n0000_p0005a15_##沒有成為全璧，但總算大體完整了。遺憾的是卷面的有
+W03n0000_p0005a16_##些地方有殘損，以致文意殘斷不全；英國所藏本與北圖所
+W03n0000_p0005a17_##藏本也不能完全綴接。猶如斷臂維納斯，給人以殘缺之
+W03n0000_p0005a18_##美的同時，留給人們一種深深的遺憾。不過，盈虧乃天道
+W03n0000_p0005a19_##之理，萬事大約最終總是要留一點遺憾的。
+W03n0000_p0005a20_##<p,0,2>吐蕃統治時期，敦煌出了一位大德沙門法成。他精
+W03n0000_p0005a21_##通漢藏兩種文字，把不少經典翻譯為漢文或藏文。他又
+W03n0000_p0005a22_##是個義學高僧，在翻譯之餘，向弟子們開講經論，傳授義
+W03n0000_p0005a23_##理。現在敦煌遺書中保存不少弟子們當年的聽講筆記。
+W03n0000_p0005a24_##本輯發表的《瑜伽論卷第四手記》就是其中之一。這類
+W03n0000_p0005a25_##《手記》又名《隨聽記》、《隨聽疏》，是弟子們聽法成講解
+W03n0000_p0006a01_##《瑜伽師地論》時所筆錄，敦煌遺書中保存甚多。《大正
+W03n0000_p0006a02_##藏》第85卷整理過其中的很小一部分。對於這些《手
+W03n0000_p0006a03_##記》，若干年前日本上山大峻先生作過較為詳盡的收集、
+W03n0000_p0006a04_##梳理，列出表格，見上山著《敦煌佛教之研究》。此後，又
+W03n0000_p0006a05_##新發現若干新的資料，可以補充。由於法成其人及其思
+W03n0000_p0006a06_##想對於研究敦煌當地佛教及漢藏佛教交流有著重要意
+W03n0000_p0006a07_##義，也均為我國歷代大藏經所不收，所以我們計劃盡可能
+W03n0000_p0006a08_##把有關文獻整理出來。但由於數量實在太多，且這些《手
+W03n0000_p0006a09_##記》均為聽課時的筆記，字[這-言+亦]比較潦草，書寫也不規範，給
+W03n0000_p0006a10_##整理工作帶來很大困難。因此，我們祇能根據《藏外佛教
+W03n0000_p0006a11_##文獻》的篇幅許可及整理工作的進度，把這些文獻逐步貢
+W03n0000_p0006a12_##獻給讀者。
+W03n0000_p0006a13_##<p,0,2>「疑偽經」專欄刊登文獻一篇。
+W03n0000_p0006a14_##<p,0,2>佛教傳統認為佛有三十二相、八十種好，這些相好是
+W03n0000_p0006a15_##僧人禪定時觀想的對象。許多經典中都詳細敘述了這些
+W03n0000_p0006a16_##相好的具體內容。本輯發表的《相好經》是有人把《觀佛
+W03n0000_p0006a17_##三昧海經》中《觀相品》及《本行品》的有關內容摘錄出來，
+W03n0000_p0006a18_##拼綴而成。按照中國佛教的傳統，這類經典，理所應當視
+W03n0000_p0006a19_##作偽經。由於偽經的這種身份，它們大多缺乏必要的整
+W03n0000_p0006a20_##理，因而在流傳中出現種種互有參差的異本。第一輯發
+W03n0000_p0006a21_##表的《天公經》、《佛母經》是如此；本輯發表的《相好經》也
+W03n0000_p0006a22_##是如此，而且情況更為複雜。根據目前掌握的情況，《相
+W03n0000_p0006a23_##好經》可以分為兩大系統，五個異本。一個經典，隨著時
+W03n0000_p0006a24_##代的流馳，出現如此歧雜的異本，在我國古代，除了《新菩
+W03n0000_p0006a25_##薩經》等少數小部疑偽經外，比較少見。當然，有些異本
+W03n0000_p0007a01_##相互的差異並不是很大，因此，究竟是把它們整理為一本
+W03n0000_p0007a02_##好，還是分別為異本好，還可以再研究。本輯發表《相好
+W03n0000_p0007a03_##經》實際也是為大家研究、探討疑偽經的異本分化提供一
+W03n0000_p0007a04_##些基本資料。
+W03n0000_p0007a05_##<p,0,2>「研究論文」專欄刊登論文一篇。
+W03n0000_p0007a06_##<p,0,2>自三十年代范成和尚於山西趙城廣勝寺發現《金
+W03n0000_p0007a07_##藏》、蔣唯心發表《金藏雕印始末考》以來，《金藏》的聲譽
+W03n0000_p0007a08_##日隆。但由於資料匱乏，對於《金藏》雕印及其後流傳過
+W03n0000_p0007a09_##程，人們始終若明若暗。尤其是所謂《金藏》版片輸京，貯
+W03n0000_p0007a10_##於弘法寺，其後補雕，成為《弘法藏》的假說，經蔣唯心首
+W03n0000_p0007a11_##創，為學術界許多人接受，也成為一樁糾纏不清的迷案。
+W03n0000_p0007a12_##本輯發表的《〈金藏〉新資料考》對新發現的北京圖書館所
+W03n0000_p0007a13_##藏明代遞修《磧砂藏》中關於《金藏》的兩條題記作了認真
+W03n0000_p0007a14_##的考證，相信這一考證對於澄清在《金藏》問題上的各種
+W03n0000_p0007a15_##說法，自會起到積極的作用。
+W03n0000_p0007a16_##<p,0,2>最後，對幾個問題略作說明。
+W03n0000_p0007a17_##<p,0,2>《藏外佛教文獻》第一輯、第二輯所發表的文獻整理
+W03n0000_p0007a18_##本，一般均用五號楷體印刷；但如同一篇文獻中還包括註
+W03n0000_p0007a19_##疏，則正文用五號楷體，註疏用五號書細明體；個別有特殊
+W03n0000_p0007a20_##排版要求的文獻，正文適當放大字號。至於題解、研究論
+W03n0000_p0007a21_##文等則一律用五號書宋體。當時主要考慮盡量利用現有
+W03n0000_p0007a22_##篇幅來擴大該書的容量，以多刊登幾篇文獻。該書出版
+W03n0000_p0007a23_##之後，不少先生表示書中所用字號太小，對於年長者，閱
+W03n0000_p0007a24_##讀尤其不便，希望能夠放大字號。為此，從第三輯開始，
+W03n0000_p0007a25_##本書的文獻正文一般改為小四號楷體；如有註疏，則用小
+W03n0000_p0008a01_##四號書宋體。至於題解與研究論文，仍然一律採用五號
+W03n0000_p0008a02_##書宋體。放大字號後，本書的容量仍然保持每輯30萬字
+W03n0000_p0008a03_##左右，基本不變。
+W03n0000_p0008a04_##<p,14>1996年12月
+W03n0000_p0009a01_##
+W03n0000_p0009a02Q1#FOREWORD
+W03n0000_p0009a03_##
+W03n0000_p0009a04_##<p,0,2>Two years and a half have elapsed since we began to prepare for editing
+W03n0000_p0009a05_## the <it>Buddhist Texts Not Contained in the Tripitaka</it> in the summer
+W03n0000_p0009a06_## of 1994, and now we have successfully presented the third number to
+W03n0000_p0009a07_## our dear readers. Since the publication of the first number of our book,
+W03n0000_p0009a08_## we have received many letters from our readers both at home and
+W03n0000_p0009a09_## abroad. Some have extended fervent support to our work; some have
+W03n0000_p0009a10_## afforded us fresh information concerning Buddhist texts not contained in
+W03n0000_p0009a11_## the Tripitaka; some have put forth emendatory suggestions on our collated
+W03n0000_p0009a12_## texts; and the others have sent us some supporting funds, hoping
+W03n0000_p0009a13_## that we can insist on doing this significant work. I hereby would like to
+W03n0000_p0009a14_## express, on behalf of the whole staff of this editorial board, our heartfelt
+W03n0000_p0009a15_## thanks to our readers who have been concerned with the growth of this
+W03n0000_p0009a16_## series of books; to the Institute of Chinese Buddhist Culture, the Zhi
+W03n0000_p0009a17_## Lian Jing Yuan from Hong Kong, the General Corporation of Buddhist
+W03n0000_p0009a18_## Cultural Establishments at Shanxi Province, and other related units and
+W03n0000_p0009a19_## individuals that have rendered great support to the publication of this
+W03n0000_p0009a20_## series of books.
+W03n0000_p0009a21_##<p,0,2>The following is a brief introduction of the main content of the third
+W03n0000_p0009a22_## number of the <it>Buddhist Texts Not Contained in the Tripitaka</it>:
+W03n0000_p0009a23_##<p,0,2>The column "Chan Texts from Dunhuang" publish two Chan texts
+W03n0000_p0009a24_## from Dunhuang.
+W03n0000_p0009a25_##<p,0,2>The <it>Pu Sa Zong Chi Fa</it> was written by a foremost exponent of the
+W03n0000_p0009a26_## Huineng (638-713 AD) system in the Southern Chan School, and it
+W03n0000_p0009a27_## has some substantial similarities with the <it>Guan Xin Lun</it> ascribed to
+W03n0000_p0009a28_## Bodhidharma (?-536 AD); therefore, the relationship between the
+W03n0000_p0009a29_## two texts has yet to be further studied. The text was first discovered
+W03n0000_p0010a01_## by Mr. Ryogho TANAKA, a Japanese scholar, from the special collection
+W03n0000_p0010a02_## of Dunhuang in France, and he published his copied text and studies.
+W03n0000_p0010a03_## The text here has been [recollated>re-collated], in accordance with the layout of
+W03n0000_p0010a04_## the <it>Buddhist Texts Not Contained in the Tripitaha</it>, by both Mr.
+W03n0000_p0010a05_## Daishun UEYAMA , a noted Japanese Buddhist scholar, and Mr.
+W03n0000_p0010a06_## YUAN Deling, a young research fellow with the Chinese Institute of
+W03n0000_p0010a07_## Dunhuang Studies, with reference to another transcript of the text
+W03n0000_p0010a08_## newly discovered in the Beijing Library. Hence a new collated text to
+W03n0000_p0010a09_## our readers. The Dunhuang studies has already become a worldwide
+W03n0000_p0010a10_## branch of learning, and the collation of the Dunhuang texts as a matter
+W03n0000_p0010a11_## of course needs constant improvement. Consequently, we welcome related
+W03n0000_p0010a12_## scholars of various countries to engage in collating the Buddhist
+W03n0000_p0010a13_## texts among the surviving books from Dunhuang, welcome them to
+W03n0000_p0010a14_## make further efforts to better the collated ones so that we can make a
+W03n0000_p0010a15_## good job of these cultural undertakings of mankind. Those who have
+W03n0000_p0010a16_## been engaged in this work are also welcome to publish their research
+W03n0000_p0010a17_## achievements in this aspect in the <it>Buddhist Texts Not Contained in
+W03n0000_p0010a18_## the Tripitaha</it>.
+W03n0000_p0010a19_##<p,0,2><it>The Da Cheng Qi Shi Lun</it> was also written by a foremost exponent
+W03n0000_p0010a20_## of the Huineng system in the Southern Chan School. More seasoned
+W03n0000_p0010a21_## was the ideology of the Southern Chan School reflected in the text, and
+W03n0000_p0010a22_## more incisive the author's style. Now that the text was copied when
+W03n0000_p0010a23_## Dunhuang was under the reign of ancient Tibet, it probably dates from
+W03n0000_p0010a24_## the first half of the 8th century AD. The readers will surely feel this
+W03n0000_p0010a25_## text very familiar who know such Chan texts of later ages as the <it>Wu
+W03n0000_p0010a26_## Deng Hui Yuan</it>. This shows that some traits of the Southern Chan
+W03n0000_p0010a27_## School can be traced back to the age when this text was produced and is
+W03n0000_p0010a28_## no doubt of great significance to the studies of the Chan School. I [oftenponder>often ponder]
+W03n0000_p0011a01_## over such a question: Has the Chan School after all raised the
+W03n0000_p0011a02_## Buddhist theory to an unprecedented new height or has it driven the
+W03n0000_p0011a03_## Buddhist theory into an undevelopable dead end? So far I have not
+W03n0000_p0011a04_## come to a conclusion yet. Therefore, this text has furnished fresh material
+W03n0000_p0011a05_## for us to trace back the developmental process of the Chan School
+W03n0000_p0011a06_## ideology.
+W03n0000_p0011a07_##<p,0,2>In the coming numbers of the <it>Buddhist Texts Not Contained in the
+W03n0000_p0011a08_## Tripitaka</it>, we shall continue to make efforts to collate the Chan texts
+W03n0000_p0011a09_## from Dunhuang, and friends from various circles are welcome to give us
+W03n0000_p0011a10_## guidance and support.
+W03n0000_p0011a11_##<p,0,2>The column "Commentaries on the Tripitaka" brings forth seven
+W03n0000_p0011a12_## texts.
+W03n0000_p0011a13_##<p,0,2>The first fascicle of the <it>Jing Ming Jing Ji Jie Guan Thong Shu</it>,
+W03n0000_p0011a14_## collected by Daoye in the Tang Dynasty (618-907 AD), was published
+W03n0000_p0011a15_## in the second number of this series of books, and we now bring
+W03n0000_p0011a16_## forth the second fascicle of the text. As the "Foreword" to the second
+W03n0000_p0011a17_## number of our book says, in spite of the fact that the text has been collected
+W03n0000_p0011a18_## into the 85th volume of the <it>Dazhengzang</it>, more than 10 thousand
+W03n0000_p0011a19_## Chinese characters from the latter half of [of >]the 5th pin (chapter)
+W03n0000_p0011a20_## to the first half of the 7th pin have been missing, and the selected master
+W03n0000_p0011a21_## copy was not very good and lacked relatively serious collation. As it
+W03n0000_p0011a22_## happens, the second fascicle of the text published in this number contains
+W03n0000_p0011a23_## the part the <it>Dazhengzang</it> has lost, and I am assured that it will
+W03n0000_p0011a24_## arouse our readers' interest. Careful readers may notice that, in the
+W03n0000_p0011a25_## second fascicle of the text published in this number, we have corrected
+W03n0000_p0011a26_## a number of wrongly written Chinese characters found in the
+W03n0000_p0011a27_## <it>Vimalakirtinirdesasutra</it> contained in the <it>Dozhengzang</it>. Such an important
+W03n0000_p0011a28_## scripture as the <it>Vimalakirtinirdesasudra</it>, handed down for more
+W03n0000_p0012a01_## than one thousand years, collected into the Dazangjing, has undergone
+W03n0000_p0012a02_## collation by numerous people through the ages, and yet the text included
+W03n0000_p0012a03_## in the Dazangjing, unfortunately, contains some wrongly written
+W03n0000_p0012a04_## Chinese characters. In addition to the <it>Vimalakirtinirdesasutra</it>, texts
+W03n0000_p0012a05_## such as <it>the Saddharmapundarikasutra</it> and <it>the Abhidharmakosasastra</it>,
+W03n0000_p0012a06_## etc. also have this sort of problems. This strongly suggests that
+W03n0000_p0012a07_## it is extremely difficult to collate the Buddhist texts, and also shows
+W03n0000_p0012a08_## clearly that it is highly necessary for us to [recollate>re-collate] the said texts.
+W03n0000_p0012a09_##<p,0,2>A group under this column is properly formed by three texts, the
+W03n0000_p0012a10_## <it>YinYuan Xin Lun Song</it>, the <it>Yin Yuan Xin Lun Shi</it>, and the <it>Yin
+W03n0000_p0012a11_## Yuan Xin Lun Shi Kai Jue Ji</it>, of which the first two were originally
+W03n0000_p0012a12_## written by Nagarjuna, a celebrated Indian Buddhist theoretician and
+W03n0000_p0012a13_## the initiator of the doctrine of the Madhyamika. The theory of the
+W03n0000_p0012a14_## pratityasamutpada is the fundamental theory of the early Buddhism
+W03n0000_p0012a15_## founded by Sakyamuni. By expounding mutual promotion and extermination
+W03n0000_p0012a16_## between the twelve causes (dvadasangapratityasamutpada), it
+W03n0000_p0012a17_## shows that all things on the earth emerge, exist, and get extinct under
+W03n0000_p0012a18_## certain conditions, thus having proved the unreliability of the samskrtadharma
+W03n0000_p0012a19_## and the truthfulness of the nirvanadharma. In Sakyamuni's
+W03n0000_p0012a20_## theoretical system, the theory of the pratityasamutpada was a kind of
+W03n0000_p0012a21_## explanation of the mode of existence of all things on the earth, and he
+W03n0000_p0012a22_## did not deny the existence of these very things. Nevertheless, according
+W03n0000_p0012a23_## to Nagarjuna, only conditions are the most fundamental and all
+W03n0000_p0012a24_## things derived now that they exist and change under certain conditions,
+W03n0000_p0012a25_## thus leading to the pratityasamutpadasvabhavasunya, which is a fundamental
+W03n0000_p0012a26_## theory of the Madhyamika. And the <it>Yin Yuan Xin Lun Song</it>
+W03n0000_p0012a27_## and the <it>Yin Yuan Xin Lun Shi</it> are Nagarjuna's two important works
+W03n0000_p0012a28_## to transform the theory of the pratityasamutpada of the early Buddhism
+W03n0000_p0013a01_## into that of the pratityasamutpadasyabhavasunya, and rank exceptionally
+W03n0000_p0013a02_## among the whole works by Nagarjuna and in the theory of the
+W03n0000_p0013a03_## Madhyamika. Unfortunately, these two very important works had remained
+W03n0000_p0013a04_## unknown to the people of the Central Plains in China and, accordingly,
+W03n0000_p0013a05_## had not been included into the traditional Chinese
+W03n0000_p0013a06_## Dazangjing since their being translated into Chinese in northwest China
+W03n0000_p0013a07_## in the 8th century or so. When they were discovered among the surviving
+W03n0000_p0013a08_## books from [Dnhuang>Dunhuang] in the 20th century, people regarded them as
+W03n0000_p0013a09_## invaluable treasures and promptly collected them into the 32nd volume
+W03n0000_p0013a10_## of the <it>Dazhengzang</it>. Owing to the limited conditions then, the texts
+W03n0000_p0013a11_## included into the <it>Dazhengzang</it> were collated in the light of only two
+W03n0000_p0013a12_## versions of the texts preserved in England as the surviving books from
+W03n0000_p0013a13_## Dunhuang, and hence some errors and omissions. The <it>Yin YuanXin
+W03n0000_p0013a14_## Lun Song</it> and the <it>Yin Yuan Xin Lun Shi</it> published in this number
+W03n0000_p0013a15_## have been collated respectively according to seven and eight versions of
+W03n0000_p0013a16_## the texts among the surviving books from Dunhuang. Therefore, I
+W03n0000_p0013a17_## should say that the newly collated texts are of better quality. The <it>Yin
+W03n0000_p0013a18_## Yuan Xin Lun Shi Kai Jue Ji</it> should have been written by a certain
+W03n0000_p0013a19_## monk in Dunhuang, probably an eminent one running a free school under
+W03n0000_p0013a20_## the domination of the ancient Tibet. It is regrettable that we now
+W03n0000_p0013a21_## have no material from which we can find out his name. It deals with
+W03n0000_p0013a22_## Nagarjuna's two originals properly and elucidates the theory of the
+W03n0000_p0013a23_## Madhyamika clearly. If we read the three texts comparatively, we can
+W03n0000_p0013a24_## reach profounder understanding of the Indian Buddhist ideology of the
+W03n0000_p0013a25_## Madhyamika. The <it>Kai Jue Ji</it> was included into the 85th volume of
+W03n0000_p0013a26_## the Dazangjing, but the master copy of the text kept in England was
+W03n0000_p0013a27_## fragmentary at the end; and it was the only version and had no collated
+W03n0000_p0013a28_## text with it. The text published here in this number has been collated
+W03n0000_p0014a01_## according to four versions among the surviving books from Dunhuang
+W03n0000_p0014a02_## and has essentially restored the true features of the initial Chinese text.
+W03n0000_p0014a03_## I am assured that the publication of the three [recollated>re-collated] texts will be
+W03n0000_p0014a04_## [benifitial>beneficial] to those who make studies of Nagarjuna and the ideology of
+W03n0000_p0014a05_## the Madhyamika.
+W03n0000_p0014a06_##<p,0,2>The <it>Jingangjing</it> (Vajracchedikaprajnaparamitasutra) is a very important
+W03n0000_p0014a07_## Buddhist work, which has been translated into Chinese for six
+W03n0000_p0014a08_## times in China since antiquity. The most popular translation of the text
+W03n0000_p0014a09_## has been that produced by Kumarajiva; therefore, most of the currently
+W03n0000_p0014a10_## circular commentaries on the <it>Jingangjing</it> just annotate the translation
+W03n0000_p0014a11_## by him. In the surviving books from Dunhuang, Kumarajiva's
+W03n0000_p0014a12_## translation and the related commentaries form the bulk of all the extant
+W03n0000_p0014a13_## <it>Jingangjing</it> and its commentaries. The <it>Jingangjing Shu</it> published in
+W03n0000_p0014a14_## this number, however, is a commentary on the translation by Bodhiruci
+W03n0000_p0014a15_## in the Northern Wei Dynasty (386-534 AD), so it is more precious.
+W03n0000_p0014a16_## Moreover, the explanatory notes of this text on the <it>Jingangjing</it> are
+W03n0000_p0014a17_## precise, appropriate, brief, and to the point, so it has been regarded as
+W03n0000_p0014a18_## one of the highly rated commentaries on the scripture. Nevertheless,
+W03n0000_p0014a19_## this commentary has never been recorded in any catalog of the Buddhist
+W03n0000_p0014a20_## Cannon through the ages, and has never been collected into any of the
+W03n0000_p0014a21_## Dazangjing of the past dynasties. Fortunately, it was [discoverd>discovered] in the
+W03n0000_p0014a22_## Beijing Library a few years ago. It consists of three parts and are labeled
+W03n0000_p0014a23_## from No.1 to No.3. After careful identification, we find out that the
+W03n0000_p0014a24_## three numbers of the text share the same stylistic rules and layout and
+W03n0000_p0014a25_## the same wording, and their content is successive from one to the another.
+W03n0000_p0014a26_## We come to the conclusion that they. are torn parts of the same
+W03n0000_p0014a27_## text. Besides, the pages of the transcript once fell off. The later mender
+W03n0000_p0014a28_## was careless; therefore, the extant transcript was out of order. We
+W03n0000_p0015a01_## have restored its proper order in the newly collated text. After we put
+W03n0000_p0015a02_## the three numbers together, the surviving content of the commentary is
+W03n0000_p0015a03_## equal to that from the 14th to the 32th fen (section) in the version of
+W03n0000_p0015a04_## the <it>Jingangjing</it> by Gumarajiva; this means that it is still fragmentary
+W03n0000_p0015a05_## as far as the beginning part is concerned. But what is exciting is that
+W03n0000_p0015a06_## the beginning part of the text has been discovered recently among the
+W03n0000_p0015a07_## surviving books from Dunhuang preserved in England by Mr. ZHAO
+W03n0000_p0015a08_## Ruihe, who is now participating in cataloging the surviving books from
+W03n0000_p0015a09_## Dunhuang in the Beijing Library. Thus, although this text has not yet
+W03n0000_p0015a10_## become perfect, it is almost complete at last. What is regrettable is that
+W03n0000_p0015a11_## parts of some pages have been missing, so the meaning of the text is
+W03n0000_p0015a12_## disconnected at intervals. Even the text kept in England can not closely
+W03n0000_p0015a13_## match and mend the text kept in the [Bejing>Beijing] Library. It is just like the
+W03n0000_p0015a14_## [brokenarmed>broken armed] Venus de Milo; while impressing one with unique sensuous
+W03n0000_p0015a15_## beauty, it makes him deeply regretful. However, as it is the natural
+W03n0000_p0015a16_## law for the moon to wax and wane, nothing in this world can be so
+W03n0000_p0015a17_## perfect that it leaves no regrets.
+W03n0000_p0015a18_##<p,0,2>During the reign of the ancient Tibet, there emerged in Dunhuang a
+W03n0000_p0015a19_## Buddhist bhadanta named Facheng, who was well versed in both Chinese
+W03n0000_p0015a20_## and Tibetan and translated a great number of scriptures into the
+W03n0000_p0015a21_## two languages. As an eminent monk running a free school, he lectured
+W03n0000_p0015a22_## on sutras and sastras and taught doctrines to his disciples during breaks
+W03n0000_p0015a23_## in translation. Now the collections of the surviving books from Dunhuang
+W03n0000_p0015a24_## contain a lot of notebooks used by the disciples while attending
+W03n0000_p0015a25_## his lectures. The <it>Yu Jia Lun Juan Di Si Shou Ji</it>, published in this
+W03n0000_p0015a26_## number, is one of the notebooks. This kind of notebooks, also named
+W03n0000_p0015a27_## </it>Sui Ting Ji</it> or <it>Sui Ting Shu</it>, contain notes made by the disciples
+W03n0000_p0015a28_## when they were attending the lectures on the <it>Yogacarabhumisastra</it>
+W03n0000_p0016a01_## given by Facheng. Many a such notebook is kept in the surviving
+W03n0000_p0016a02_## books from Dun-huang. The 85th volume of the <it>Dazhengzang</it> contains
+W03n0000_p0016a03_## only a small portion of them. A number of years ago, Mr.
+W03n0000_p0016a04_## Daishun UEYAMA, the Japanese scholar we mentioned above, after
+W03n0000_p0016a05_## having made a relatively exhaustive search of these notebooks, reorganized
+W03n0000_p0016a06_## them and listed them in a table, which is available in his book entitled
+W03n0000_p0016a07_## <it>A Study of Buddhism in Dunhuang</it>. Since then, a number of
+W03n0000_p0016a08_## new material has been discovered. We plan to try our best to sort out
+W03n0000_p0016a09_## the relevant [literture>literature], because both Facheng himself and his thinking
+W03n0000_p0016a10_## are of considerable significance to the studies of both local Buddhism in
+W03n0000_p0016a11_## Dunhuang and SinoTibetan Buddhist exchanges, and the related texts
+W03n0000_p0016a12_## have never been included into any of the Dazangjing of the past dynasties
+W03n0000_p0016a13_## in China yet. However, the [noteboks>notebooks] are really too many, and the
+W03n0000_p0016a14_## handwriting is generally rather informal and illegible, making collation a
+W03n0000_p0016a15_## very troublesome job. As a result, we can only offer these would-be
+W03n0000_p0016a16_## texts to our readers step by step in accordance with the space available
+W03n0000_p0016a17_## in our <it>Buddhist Texts Not Contained in the Tripitaka</it> as well as the
+W03n0000_p0016a18_## progress of our collation.
+W03n0000_p0016a19_##<p,0,2>One text is published in the section "Doubtful and Spurious Works".
+W03n0000_p0016a20_##<p,0,2>According to Buddhist tradition, Buddha had both 32 obvious
+W03n0000_p0016a21_## [physcal>physical] features (dvatrimsamahapurusalaksana) and 80 subtle physical
+W03n0000_p0016a22_## points (asityanuvyanjanani) of a great man. Both the miraculous physical
+W03n0000_p0016a23_## features and the excellent physical points are objects for monks to
+W03n0000_p0016a24_## watch and speculate while sitting in meditation. Many scriptures have
+W03n0000_p0016a25_## discussed the details of these physical features and points. The <it>Xiang
+W03n0000_p0016a26_## Hao Jing</it> published in this number is composed of relevant passages
+W03n0000_p0016a27_## taken from both the <it>Guan Xiang Pin</it> and the <it>Ben Xing Pin</it> of the
+W03n0000_p0016a28_## <it>Guan Fo San Mei Hai Jing</it>. According to Chinese Buddhist tradition,
+W03n0000_p0017a01_## these scriptures should be regarded as spurious ones. Owing to their
+W03n0000_p0017a02_## status, most of them have lacked necessary collation, so there have appeared
+W03n0000_p0017a03_## all kinds of variant versions during the period of their
+W03n0000_p0017a04_## circulation. So are the <it>Tian Gong Jing</it> and the <it>Fo Mu Jing</it> published
+W03n0000_p0017a05_## in the first number and the <it>Xiang Hao Jing</it> published in this number,
+W03n0000_p0017a06_## the case of the latter being more complicated. According to the information
+W03n0000_p0017a07_## available, the <it>Xiang Had Jing</it> has five different versions,
+W03n0000_p0017a08_## which can be divided into two major [systyms>systems]. Except a small number
+W03n0000_p0017a09_## of minor doubtful and spurious works such as the <it>Xin Pu Sa Jing</it>, the
+W03n0000_p0017a10_## case like this was really rare in ancient China. Therefore, we may discuss
+W03n0000_p0017a11_## whether these different versions should be collated into one text or
+W03n0000_p0017a12_## should be collated and kept as separate variant versions. The <it>Xiang
+W03n0000_p0017a13_## Hao Jing</it> [publisged>published] here is to provide the readers with some basic material
+W03n0000_p0017a14_## for reference in this area.
+W03n0000_p0017a15_##<p,0,2>One paper is brought forth in the section "Research Papers".
+W03n0000_p0017a16_##<p,0,2>In 1930's, a monk named Fan Cheng discovered the <it>Jinzang</it> in
+W03n0000_p0017a17_## the Guangsheng Temple in Zhaocheng County, Shanxi Province, and
+W03n0000_p0017a18_## Jiang Weixin published his <it>Jinzang Diaoyin Shimo Kao (A History of
+W03n0000_p0017a19_## the Jinzang)</it> - The <it>Jinzang</it> has gained increasing reputation ever since.
+W03n0000_p0017a20_## Nevertheless, people are not very clear all the time about the process of
+W03n0000_p0017a21_## the engraving, printing, and circulation of the <it>Jinzang</it> because of
+W03n0000_p0017a22_## lacking material. Jiang Weixin put forth a hypothesis that the engraved
+W03n0000_p0017a23_## blocks for printing the <it>Jinzang</it> had been transported to the capital
+W03n0000_p0017a24_## (then named Yanjing) and were stored in the Hongfa Temple; people
+W03n0000_p0017a25_## later engraved some more blocks and produced the <it>Hongfazang</it>. This
+W03n0000_p0017a26_## has remained an unsolved mystery, though many scholars in the academic
+W03n0000_p0017a27_## circles have accepted the hypothesis. The <it>Jinzang Xin Ziliao
+W03n0000_p0017a28_## Kao ( A Study of the New Material Concerning the Jinzang )</it> published
+W03n0000_p0018a01_## in this number is the result of a serious study of two notes on the
+W03n0000_p0018a02_## <it>Jinzang</it> found in the <it>Qishazang</it>, which was produced successively in
+W03n0000_p0018a03_## the Ming Dynasty (1368 @ 1644) and is now preserved in the Beijing
+W03n0000_p0018a04_## Library. I trust that this paper will be very useful for clarifying various
+W03n0000_p0018a05_## statements on the <it>Jinzang</it>.
+W03n0000_p0018a06_##
+W03n0000_p0018a07_##<p,0,2>Finally a few words about the size and form of the Chinese characters
+W03n0000_p0018a08_## used in our book.
+W03n0000_p0018a09_##<p,0,2>No.5 block characters were used for most of the texts published in
+W03n0000_p0018a10_## the first two [nembers>numbers] of the <it>Buddhist Texts Not Contained in the
+W03n0000_p0018a11_## Tripitaka</it>. If comments and notes appeared in the same text. No.5
+W03n0000_p0018a12_## Song typeface characters were used for printing. Our purpose was to
+W03n0000_p0018a13_## publish more texts within limited space by using smaller sized characters.
+W03n0000_p0018a14_## However, after reading the first two books, many readers have
+W03n0000_p0018a15_## pointed out that the character size is too small and inconvenient especially
+W03n0000_p0018a16_## to senior readers. Therefore, beginning from this number, we
+W03n0000_p0018a17_## shall use No.4 (small) block characters for texts proper and No.4
+W03n0000_p0018a18_## (small) Song typeface characters for comments and notes. We shall continue
+W03n0000_p0018a19_## to apply No.5 Song typeface characters (for the purpose of book
+W03n0000_p0018a20_## printing) to explanatory notes on titles and research papers. Each forthcoming
+W03n0000_p0018a21_## number of the <it>Buddhist Texts Not Contained in the Tripitaka</it>
+W03n0000_p0018a22_## will still contain 300 thousand characters or so after we have enlarged
+W03n0000_p0018a23_## the size of the characters used in most part of the book.
+W03n0000_p0018a24_##
+W03n0000_p0018a25_##<p,24>Fang Guangchang
+W03n0000_p0018a26_##
+W03n0000_p0018a27_##<p>Beijing
+W03n0000_p0018a28_##<p>December, 1996
+W03n0000_p0018a29_##
+W03n0000_p0019a01_##
+W03n0000_p0019a02Q1#序
+W03n0000_p0019a03A##方廣錩
+W03n0000_p0019a04_##
+W03n0000_p0019a05_##<p,0,2>1994年夏年【ni】《藏外佛教文獻》【no】編集準備【wo】開始【shi】【te】【yo】【ri】、
+W03n0000_p0019a06_##早【ku】【mo】2年餘【ri】【no】歲月【wo】經【te】、【ko】【ko】【ni】【so】【no】第三輯【wo】送【ru】【ko】【to】【to】
+W03n0000_p0019a07_##【na】【tsu】【ta】。第一輯【no】出版以來、多【ku】【no】讀者【wo】得、海內外【yo】【ri】大【ki】
+W03n0000_p0019a08_##【na】反響【ga】寄【se】【ra】【re】【ta】。【ko】【no】事業【ni】對【su】【ru】熱【i】期待【ya】、大藏經未
+W03n0000_p0019a09_##收【no】新【shi】【i】佛教文獻【no】情報提供【ya】、校錄【ni】對【su】【ru】補正意見【ya】、
+W03n0000_p0019a10_##【sa】【ra】【ni】【ha】【ko】【no】企劃【no】永續【wo】希望【shi】【te】出資【wo】申【shi】出【ra】【re】【ta】方【mo】
+W03n0000_p0019a11_##【a】【tsu】【ta】。【ko】【ko】【ni】編集委員【wo】代表【shi】、本書【no】成長【ni】關心【wo】寄【se】【ra】
+W03n0000_p0019a12_##【re】【ta】讀者【no】【ka】【ta】【ga】【ta】【ni】、謹【n】【de】衷心【yo】【ri】御禮【wo】申【shi】【a】【ge】【ta】【i】。
+W03n0000_p0019a13_##【ma】【ta】本書【no】出版【ni】【a】【ta】【tsu】【te】援助【wo】惜【shi】【ma】【re】【na】【ka】【tsu】【ta】中國佛教文
+W03n0000_p0019a14_##化研究所、香港志蓮淨苑、山西省佛教文化事業總公司、【na】【ra】【bi】【ni】
+W03n0000_p0019a15_##【so】【no】他【no】機關【to】個人【ni】對【shi】、心【yo】【ri】謝意【wo】表【su】【ru】次第【de】【a】【ru】。
+W03n0000_p0019a16_##【ko】【u】【shi】【ta】【ka】【ta】【ga】【ta】【no】支持【to】援助【wo】得【te】、《藏外佛教文獻》【no】刊行
+W03n0000_p0019a17_##【ga】今後【to】【mo】順調【ni】進【mi】、【so】【no】歷史的使命【wo】完【u】【su】【ru】【de】【a】【ro】【u】【ko】
+W03n0000_p0019a18_##【to】【wo】堅【ku】信【zu】【ru】【mo】【no】【de】【a】【ru】。
+W03n0000_p0019a19_##<p,0,2>以下【ni】、【ko】【no】第三輯所載【no】文獻【ni】【tsu】【ki】簡單【na】紹介【wo】【shi】【te】【o】
+W03n0000_p0019a20_##【ki】【ta】【i】。
+W03n0000_p0019a21_##<p,0,2>「敦煌禪籍」【no】部【ni】【ha】二篇【no】敦煌禪文獻【wo】收【me】【ru】。
+W03n0000_p0019a22_##<p,0,2>《菩薩總持法》【ha】慧能系【no】南宗【ni】屬【su】【ru】人【no】撰述【de】、內容【ha】
+W03n0000_p0019a23_##菩提達摩【ni】假托【sa】【re】【ta】《觀心論》【to】類似【shi】【ta】部分【wo】【mo】【chi】、【so】【no】關
+W03n0000_p0019a24_##係【no】解明【ga】懸案【to】【na】【tsu】【te】【i】【ru】。【ko】【no】文獻【ha】最初、田中良昭氏【ga】
+W03n0000_p0019a25_##【PE】【RI】【O】．【KO】【RE】【KU】【SHI】【YO】【N】中【yo】【ri】發見【shi】【te】、錄文【to】研究【wo】發表【sa】【re】
+W03n0000_p0019a26_##【ta】。今回【ha】上山大峻氏【to】敦煌研究院【no】若手研究者袁德領氏【ga】
+W03n0000_p0019a27_##北京圖書館【de】新【ta】【ni】發見【sa】【re】【ta】寫本【wo】【mo】參照【shi】【te】、《藏外佛教
+W03n0000_p0020a01_##文獻》【no】體例【ni】從【i】更【me】【te】整理【shi】【ta】新【shi】【i】校錄本【wo】提供【su】【ru】。
+W03n0000_p0020a02_##敦煌學【ha】【su】【de】【ni】世界的擴【ga】【ri】【wo】【mo】【tsu】學問【de】【a】【ri】、佛教文獻【no】整
+W03n0000_p0020a03_##理【ha】【mo】【to】【mo】【to】精確【sa】【wo】斷【e】【zu】要求【sa】【re】【ru】事業【de】【a】【ru】。【shi】【ta】【ga】
+W03n0000_p0020a04_##【tsu】【te】、世界【no】學者【ga】敦煌遺書中【no】佛教文獻【no】整理【wo】手【ga】【ke】、【su】
+W03n0000_p0020a05_##【de】【ni】整理【wo】經【ta】文獻【ni】【tsu】【i】【te】【mo】【i】【tsu】【so】【u】精確【sa】【wo】求【me】【ru】【be】【ku】
+W03n0000_p0020a06_##努力【wo】重【ne】、【to】【mo】【ni】【ko】【no】世界的全人類的文化事業【wo】推進【shi】【te】【yu】
+W03n0000_p0020a07_##【ku】【ko】【to】【wo】、【wa】【re】【wa】【re】【ha】願【tsu】【te】【i】【ru】。【so】【u】【shi】【ta】校錄【no】成果【wo】【ko】【no】
+W03n0000_p0020a08_##《藏外佛教文獻》【ni】發表【sa】【re】【ru】【ko】【to】【ha】大歡迎【de】【a】【ru】。
+W03n0000_p0020a09_##<p,0,2>《大乘起世論》【mo】慧能系【no】南宗禪【ni】屬【su】【ru】人【no】作品【de】【a】【ru】。
+W03n0000_p0020a10_##【ko】【no】文獻【ni】表【wa】【re】【ta】南宗禪【ha】、思想的【ni】【ha】【i】【tsu】【so】【u】成熟度【wo】增
+W03n0000_p0020a11_##【shi】、【SU】【TA】【I】【RU】【ni】【o】【i】【te】【ha】、【su】【de】【ni】棒喝【ni】似【ta】機鋒【wo】【no】【zo】【ka】【se】【te】
+W03n0000_p0020a12_##【i】【ru】。【ko】【no】寫本【no】書寫年代【ga】吐蕃佔領期【de】【a】【ru】【ko】【to】【ka】【ra】、【ko】【no】
+W03n0000_p0020a13_##論自體【no】成立【ha】【ho】【bo】8世紀前半【to】考【e】【ra】【re】【ru】。《五燈會元》【na】【do】
+W03n0000_p0020a14_##【no】後世【no】禪籍【ni】親【shi】【n】【da】讀者 【na】【ra】【ba】、【ko】【no】文獻【wo】讀【n】【de】少【shi】【mo】
+W03n0000_p0020a15_##違和感【ga】【na】【i】【ha】【zu】【de】【a】【ru】。【su】【na】【wa】【chi】、南宗禪【no】若干【no】宗風【ha】【ko】
+W03n0000_p0020a16_##【no】文獻【no】成立年代【no】頃【ma】【de】溯【ri】得【ru】【wa】【ke】【de】、【ko】【re】【ha】禪【no】研究【ni】
+W03n0000_p0020a17_##【ka】【na】【ra】【zu】【ya】重要【na】意義【wo】【mo】【tsu】【de】【a】【ro】【u】。【i】【tsu】【mo】考【e】【ru】【no】【da】【ga】、
+W03n0000_p0020a18_##禪宗【ha】【ha】【ta】【shi】【te】佛教理論【wo】未曾有【no】高【mi】【ni】推【shi】上【ge】【ta】【no】【da】【ro】
+W03n0000_p0020a19_##【u】【ka】、【a】【ru】【i】【ha】佛教理論【wo】行【ki】場【no】【na】【i】袋小路【he】推【shi】【ya】【tsu】【ta】【no】
+W03n0000_p0020a20_##【da】【ro】【u】【ka】。【wa】【ta】【shi】【ha】【ko】【no】問題【ni】【i】【ma】【da】結論【wo】出【se】【na】【i】【de】【i】【ru】
+W03n0000_p0020a21_##【ga】、【ko】【no】文獻【ha】禪思想【no】發展【no】歷程【wo】追究【su】【ru】【u】【e】【de】、新【shi】【i】
+W03n0000_p0020a22_##資料【wo】提供【su】【ru】【ko】【to】【ni】【na】【ro】【u】。
+W03n0000_p0020a23_##<p,0,2>《藏外佛教文獻》【de】【ha】以後【mo】【hi】【ki】【tsu】【du】【ki】敦煌禪文獻【no】整理
+W03n0000_p0020a24_##【ni】努力【shi】【te】【yu】【ku】所存【de】【a】【ru】。各界友人【no】指導【to】支持【wo】期待【su】
+W03n0000_p0020a25_##【ru】。
+W03n0000_p0020a26_##<p,0,2>「三藏論述」【no】部【ni】【ha】六篇【no】文獻【wo】收【me】【ru】。
+W03n0000_p0020a27_##<p,0,2>唐【no】道液撰《淨名經集解關中疏》【no】上卷【wo】第二輯【ni】發表【shi】
+W03n0000_p0020a28_##【ta】【ga】、本輯【ni】【ha】下卷【wo】登載【su】【ru】。【ko】【no】文獻【ha】《大正藏》第85卷
+W03n0000_p0021a01_##【ni】【ha】收【me】【ra】【re】【te】【i】【ta】【ga】、第五品【no】後半【ka】【ra】第七品前半部分約1
+W03n0000_p0021a02_##萬字【wo】脫【shi】【te】【o】【ri】、底本【so】【no】【mo】【no】【mo】【yo】【i】【to】【ha】言【e】【zu】、加【e】【te】校
+W03n0000_p0021a03_##異【mo】不完全【de】【a】【ru】。本輯登載【no】下卷【ni】【ha】【ko】【no】脫落部分【ga】含【ma】
+W03n0000_p0021a04_##【re】【te】【i】【ru】【no】【de】、關心【wo】【mo】【tsu】人【no】注意【wo】引【ku】【ko】【to】【ni】【na】【ro】【u】。【ma】【ta】
+W03n0000_p0021a05_##細心【na】讀者【na】【ra】【ba】、【ko】【no】下卷【ni】含【ma】【re】【ru】《維摩詰所說經》【no】大藏
+W03n0000_p0021a06_##經傳本中【no】若干【no】誤字【ga】校定【shi】【te】改【me】【te】【a】【ru】【ko】【to】【ni】【mo】氣【du】【ka】
+W03n0000_p0021a07_##【re】【ru】【de】【a】【ro】【u】。《維摩詰所說經》【no】【yo】【u】【na】、千年【mo】流傳【shi】、大藏
+W03n0000_p0021a08_##經中【ni】收【me】【ra】【re】、前代【no】多【ku】【no】人【no】校勘【wo】經【te】【ki】【ta】重要【na】經典
+W03n0000_p0021a09_##【ni】【mo】、遺憾【na】【ko】【to】【ni】【so】【no】大藏傳本【ni】【ha】些少【no】誤字【ga】【a】【ru】【no】【de】【a】
+W03n0000_p0021a10_##【ru】。《維摩詰所說經》【no】【mi】【na】【ra】【zu】、《妙法蓮華經》【ya】《俱舍論》【na】【do】
+W03n0000_p0021a11_##【ni】【mo】同樣【no】問題【ga】【a】【ru】。佛教文獻【no】整理【no】難【shi】【sa】【ha】【ko】【ko】【ni】【a】
+W03n0000_p0021a12_##【ri】、今日【no】【wa】【re】【wa】【re】【ga】更【me】【te】佛教文獻【no】整理【wo】手【ga】【ke】【ru】【ko】【to】【no】
+W03n0000_p0021a13_##必要性【mo】、【ma】【ta】【ko】【ko】【ni】【a】【ru】。
+W03n0000_p0021a14_##<p,0,2>《因緣心論頌》、《因緣心論釋》【to】《因緣心論釋開決記》【no】三篇
+W03n0000_p0021a15_##【ha】一連【no】【mo】【no】【de】【a】【ru】。【ko】【no】【u】【chi】【no】前二著【ha】【I】【N】【DO】佛教【no】理論
+W03n0000_p0021a16_##家【de】中觀學說【no】創始者龍樹【no】撰【ni】【ka】【ka】【ru】。緣起論【ha】【SHI】【YA】【KA】【no】
+W03n0000_p0021a17_##創始【shi】【ta】初期佛教【no】基本理論【de】【a】【ru】【ga】、十二有支生滅論【wo】通【shi】
+W03n0000_p0021a18_##【te】、世界【no】萬物【ga】【a】【ru】條件【ni】【yo】【tsu】【te】生【ma】【re】、存續【shi】、生滅【su】【ru】【ko】
+W03n0000_p0021a19_##【to】【wo】說明【shi】、【so】【ko】【ka】【ra】有為法【no】不可怙恃性、涅槃法【no】真實性【wo】
+W03n0000_p0021a20_##論證【shi】【ta】。【SHI】【YA】【KA】【no】理論的體係【ni】【o】【i】【te】、緣起論【ha】世界萬有【no】
+W03n0000_p0021a21_##存在方式【ni】對【su】【ru】一解釋【de】【a】【ru】【ga】、世界萬有【no】存在【so】【no】【mo】【no】【wo】
+W03n0000_p0021a22_##否定【shi】【ta】【no】【de】【ha】【na】【i】。【shi】【ka】【shi】龍樹【ha】、萬有【ga】【a】【ru】條件【ni】【yo】【tsu】【te】
+W03n0000_p0021a23_##存在【shi】變化【su】【ru】【mo】【no】【na】【ra】【ba】、【so】【no】條件【no】【a】【ru】【ko】【to】【ga】最【mo】基本
+W03n0000_p0021a24_##的、萬有【so】【no】【mo】【no】【ha】派生的【na】【no】【de】【a】【tsu】【te】、【ko】【ko】【ka】【ra】「緣起性空」【na】
+W03n0000_p0021a25_##【ru】中觀學說【no】基本理論【wo】導【ki】出【shi】【ta】。【ko】【no】《因緣心論頌》【to】《因
+W03n0000_p0021a26_##緣心論釋》【ha】、龍樹【ga】初期佛教【no】緣起論【wo】緣起性空說【he】【to】變革
+W03n0000_p0021a27_##【shi】【ta】重要【na】著作【to】【shi】【te】、龍樹【no】全著述【o】【yo】【bi】中觀理論【no】中【de】特
+W03n0000_p0021a28_##殊【na】地位【wo】占【me】【te】【i】【ru】。【ta】【da】遺憾【na】【ko】【to】【ni】、【ko】【no】重要【na】著作【ha】
+W03n0000_p0022a01_##8世紀【no】【go】【ro】西北【no】地【de】譯出【sa】【re】【na】【ga】【ra】、中原【ni】【ha】傳【wa】【ru】【ko】【to】
+W03n0000_p0022a02_##【na】【ku】、【shi】【ta】【ga】【tsu】【te】、中國傳統【no】大藏經【ni】【mo】收錄【sa】【re】【na】【ka】【tsu】【ta】。今
+W03n0000_p0022a03_##世紀【ni】【na】【tsu】【te】敦煌遺書中【yo】【ri】發見【sa】【re】【ru】【ya】、【ha】【na】【ha】【da】貴重視【sa】
+W03n0000_p0022a04_##【re】【te】【ta】【da】【chi】【ni】《大正藏》第32卷【ni】收【me】【ra】【re】【ta】【no】【de】【a】【ru】。【shi】【ka】【shi】
+W03n0000_p0022a05_##《大正藏》【ni】收錄【sa】【re】【ta】本文【ha】、【ta】【da】二本【no】【SU】【TA】【I】【N】本【ni】【yo】【ru】校
+W03n0000_p0022a06_##勘【no】【mi】【na】【no】【de】、若干【no】誤【ri】【ga】【a】【ru】。本輯【ni】發表【shi】【ta】《因緣心論
+W03n0000_p0022a07_##頌》【ha】七本、《因緣心論釋》【ha】八本【no】敦煌遺書【ni】【mo】【to】【du】【ku】校錄【de】
+W03n0000_p0022a08_##【a】【ru】【ka】【ra】、【ko】【no】新【shi】【i】校錄本文【no】質【ha】比較的高【i】【to】【i】【e】【yo】【u】。
+W03n0000_p0022a09_##《因緣心論釋開決記》【ha】【o】【so】【ra】【ku】吐蕃統治期【no】敦煌【no】義學僧【ni】
+W03n0000_p0022a10_##【yo】【ru】撰述【to】思【wa】【re】【ru】【ga】、【so】【no】姓名【wo】考證【su】【ru】資料【wo】、目下見【i】
+W03n0000_p0022a11_##【da】【su】【ko】【to】【ha】【de】【ki】【na】【i】。《開決記》【ha】龍樹【no】頌【to】釋【ni】對【shi】【te】【ka】【na】
+W03n0000_p0022a12_##【ri】正確【na】把握【wo】【shi】【te】【o】【ri】、中觀理論【ni】對【su】【ru】【su】【gu】【re】【ta】解明【to】【na】
+W03n0000_p0022a13_##【tsu】【te】【i】【ru】。【ko】【no】三篇【wo】對照【sa】【se】【te】讀【me】【ba】、【I】【N】【DO】佛教【no】 中觀思
+W03n0000_p0022a14_##想【ni】【tsu】【i】【te】深【i】理解【ga】得【ra】【re】【yo】【u】。【ko】【re】【mo】【ka】【tsu】【te】《大正藏》第
+W03n0000_p0022a15_##85卷【ni】錄文【ga】收【me】【ra】【re】【ta】【ga】、【so】【re】【ha】後尾部殘闕【no】【SU】【TA】【I】【N】本
+W03n0000_p0022a16_##【de】、校勘【wo】經【ta】【mo】【no】【de】【ha】【na】【ka】【tsu】【ta】。本輯【ni】整理發表【shi】【ta】校錄本
+W03n0000_p0022a17_##【ha】四本【no】敦煌遺書【ni】【mo】【to】【du】【ki】、【ko】【no】文獻【no】本來【no】【su】【ga】【ta】【wo】基本
+W03n0000_p0022a18_##的【ni】恢復【shi】【ta】。【ko】【u】【shi】【ta】三篇【no】文獻【no】再整理【ga】、龍樹【to】中觀思
+W03n0000_p0022a19_##想【no】研究者【wo】裨益【su】【ru】【mo】【no】【de】【a】【ru】【ko】【to】【wo】信【zu】【ru】。
+W03n0000_p0022a20_##<p,0,2>《金剛經》【ha】重要【na】經典【de】【a】【ri】、六度【ni】【wa】【ta】【tsu】【te】翻譯【ga】【o】【ko】
+W03n0000_p0022a21_##【na】【wa】【re】【ta】。【na】【ka】【de】【mo】鳩摩羅什【no】翻譯【ha】【mo】【tsu】【to】【mo】廣【ku】流通【shi】、【shi】
+W03n0000_p0022a22_##【ta】【ga】【tsu】【te】、現在傳【wa】【ru】《金剛經》註疏【ga】【mo】【to】【du】【ku】【mo】【no】【ha】、【o】【o】【mu】【ne】
+W03n0000_p0022a23_##羅什譯【de】【a】【tsu】【ta】。敦煌遺書【no】中【de】【mo】羅什譯【to】【so】【no】註疏【ga】《金剛
+W03n0000_p0022a24_##經》【o】【yo】【bi】註疏【no】殆【n】【do】【wo】占【me】【te】【i】【ru】。【shi】【ka】【shi】本輯【ni】發表【shi】【ta】
+W03n0000_p0022a25_##《金剛經疏》【ha】、北魏【no】菩提流支譯【ni】對【su】【ru】註疏【de】【a】【tsu】【te】、【ha】【na】【ha】
+W03n0000_p0022a26_##【da】貴重【de】【a】【ru】。加【e】【te】釋義【mo】簡明【ni】【shi】【te】要【wo】得、《金剛經》【no】【su】
+W03n0000_p0022a27_##【gu】【re】【ta】註疏【to】言【u】【ko】【to】【ga】【de】【ki】【ru】。歷代【no】經錄【ni】著錄【sa】【re】【zu】、大
+W03n0000_p0022a28_##藏經【ni】【mo】收錄【sa】【re】【na】【ka】【tsu】【ta】【mo】【no】【ga】、數年前【ni】北京圖書館【de】三本
+W03n0000_p0023a01_##發見【sa】【re】、鑒定【wo】【he】【te】、【ko】【no】三本【ga】書式、文字【to】【mo】【ni】同【zi】【de】、前
+W03n0000_p0023a02_##後相連續【su】【ru】同一文獻【de】【a】【ri】、【no】【chi】【ni】三【tsu】【ni】裂【ka】【re】【ta】【mo】【no】【de】【a】
+W03n0000_p0023a03_##【ru】【ko】【to】【ga】確認【sa】【re】【ta】。【shi】【ka】【mo】【ko】【no】寫本【no】各紙【ha】【i】【chi】【do】剝【re】【te】
+W03n0000_p0023a04_##脫落【shi】、後人【ga】補綴【shi】【ta】【to】【ki】不注意【de】順序【ni】錯亂【ga】生【zi】【te】【i】【ta】
+W03n0000_p0023a05_##【no】【wo】、今回正【shi】【te】【mo】【to】【no】狀態【ni】恢復【shi】【ta】【no】【de】【a】【ru】。【ko】【no】三本【wo】
+W03n0000_p0023a06_##綴合【shi】【ta】註疏現存部分【ha】、羅什譯【no】第十四分【ka】【ra】第三十二分【ni】
+W03n0000_p0023a07_##相當【shi】、首部【ha】殘闕【no】【ma】【ma】【de】【a】【tsu】【ta】【ga】、最近【ko】【no】首部【ga】北京圖
+W03n0000_p0023a08_##書館敦煌遺書【no】目錄作成【ni】參加【sa】【re】【ta】趙瑞禾氏【ni】【yo】【tsu】【te】、【RO】【N】
+W03n0000_p0023a09_##【DO】【N】【no】【SU】【TA】【I】【N】本中【yo】【ri】發現【sa】【re】【ta】。【ta】【da】北京圖書館本【to】【SU】
+W03n0000_p0023a10_##【TA】【I】【N】本【ha】完全【ni】【ha】【tsu】【na】【ga】【ra】【zu】、寫本【no】一部【ni】殘損【ga】【a】【tsu】【te】完
+W03n0000_p0023a11_##璧【de】【ha】【na】【i】【ke】【re】【do】【mo】、【ho】【bo】全體【wo】復原【shi】【e】【ta】【no】【de】【a】【ru】。【a】【ta】【ka】
+W03n0000_p0023a12_##【mo】【MI】【RO】【no】【VU】【I】—【NA】【SU】【no】【go】【to】【ku】、殘闕【no】美【wo】感【zi】【sa】【se】【ha】【su】【ru】【ga】、
+W03n0000_p0023a13_##【ya】【ha】【ri】殘念【ni】思【wa】【se】【zu】【ni】【ha】【o】【ka】【na】【i】。【shi】【ka】【shi】【ma】【ta】考【e】【te】【mi】【re】
+W03n0000_p0023a14_##【ba】、滿【chi】缺【ke】【ha】天【no】理、人間【no】萬事【ha】【o】【o】【mu】【ne】最後【ni】【chi】【yo】【tsu】【pi】【ri】
+W03n0000_p0023a15_##惜【shi】【i】部分【wo】【no】【ko】【su】【mo】【no】【na】【no】【de】【a】【ro】【u】。
+W03n0000_p0023a16_##<p,0,2>吐蕃統治期【no】敦煌【ni】活躍【shi】【ta】大德沙門法成【ha】漢語．【CHI】【BE】【TSU】
+W03n0000_p0023a17_##【TO】語【to】【mo】【ni】精通【shi】、多【ku】【no】經典【wo】漢語【a】【ru】【i】【ha】【CHI】【BE】【TSU】【TO】語【ni】翻
+W03n0000_p0023a18_##譯【shi】【ta】。【ka】【re】【ha】【ma】【ta】教理學【ni】【mo】【hi】【i】【de】、弟子【ta】【chi】【ni】經論【wo】講義
+W03n0000_p0023a19_##【shi】、佛教理論【wo】傳授【shi】【ta】。敦煌遺書中【ni】【ha】、【ko】【re】【ra】【no】弟子【ta】【ga】
+W03n0000_p0023a20_##當時聽講【shi】【te】書【ki】【to】【me】【ta】【NO】—【TO】【ga】多【ku】遺【sa】【re】【te】【i】【ru】。本輯【ni】
+W03n0000_p0023a21_##發表【shi】【ta】《瑜伽論卷第四手記》【ha】【so】【no】【hi】【to】【tsu】【de】【a】【ru】。弟子【ta】【chi】
+W03n0000_p0023a22_##【ga】法成【no】講【zu】【ru】《瑜伽師地論》【wo】聽【i】【te】筆錄【shi】【ta】《手記》【ha】、【ma】【ta】
+W03n0000_p0023a23_##《隨聽記》、《隨聽疏》【to】【mo】呼【ba】【re】、敦煌遺書中【ni】多【ku】遺【sa】【re】【te】【o】
+W03n0000_p0023a24_##【ri】、《大正藏》第85卷【ni】收【me】【ra】【re】【ta】【no】【ha】【so】【no】【go】【ku】一部【ni】【su】【gi】【na】
+W03n0000_p0023a25_##【i】。數年前【ni】上山大峻氏【ga】【ko】【re】【ra】【no】《手記》【wo】廣【ku】收集整理【shi】
+W03n0000_p0023a26_##【te】一覽表【ni】【sa】【re】【ta】（《敦煌佛教【no】研究》）【ga】、【so】【no】後【ma】【ta】若干【no】新
+W03n0000_p0023a27_##資料【mo】發見【sa】【re】【te】【i】【ru】【no】【de】、補【u】必要【ga】【a】【ru】。法成【no】閱歷【to】思
+W03n0000_p0023a28_##想【ha】敦煌【no】佛教【to】漢族．【CHI】【BE】【TSU】【TO】佛教【no】交流【wo】研究【su】【ru】【sa】【i】、
+W03n0000_p0024a01_##重要【na】意味【wo】【mo】【tsu】【te】【i】【ru】【ga】、歷代【no】【do】【no】大藏經【ni】【mo】收錄【sa】【re】【na】
+W03n0000_p0024a02_##【ka】【tsu】【ta】。【wa】【re】【wa】【re】【ha】【ko】【re】【ra】【no】關係資料【wo】【de】【ki】【u】【ru】限【ri】整理【shi】
+W03n0000_p0024a03_##【te】【yu】【ki】【ta】【i】【to】考【e】【te】【i】【ru】。【ta】【da】份量【ga】【ha】【na】【ha】【da】多【ku】、【ka】【tsu】【ko】【re】
+W03n0000_p0024a04_##【ra】【no】《手記》【ha】聽講時【no】【NO】—【TO】【de】【a】【ru】【yu】【e】【ni】、文字【no】書【ki】【ka】【ta】【mo】
+W03n0000_p0024a05_##雜【de】規範【ni】合【wa】【nu】【mo】【no】【ga】多【ku】、整理【ni】【ha】大【ki】【na】困難【ga】【to】【mo】【na】
+W03n0000_p0024a06_##【u】。【shi】【ta】【ga】【tsu】【te】本書【no】紙幅【no】都合【to】整理【no】進步【ni】應【zi】【te】、【o】【i】
+W03n0000_p0024a07_##【o】【i】發表【shi】【te】【yu】【ku】【tsu】【mo】【ri】【de】【a】【ru】。
+W03n0000_p0024a08_##<p,0,2>「疑偽經」【no】部【ni】【ha】文獻一篇【wo】收【me】【ru】。
+W03n0000_p0024a09_##<p,0,2>佛教【no】傳統【de】【ha】、佛【ha】三十二相、八十種好【wo】【so】【na】【e】、修行者
+W03n0000_p0024a10_##【ga】禪定【wo】修【su】【ru】時【no】觀想【no】對像【to】【sa】【re】、多【ku】【no】經典【ni】相好【no】具
+W03n0000_p0024a11_##體的內容【ga】詳細【ni】述【be】【ra】【re】【te】【i】【ru】。本輯【ni】發表【shi】【ta】《相好經》
+W03n0000_p0024a12_##【ha】、《觀佛三昧海經》【no】「觀相品」【to】「本行品」【ka】【ra】關連【su】【ru】內容【wo】
+W03n0000_p0024a13_##摘錄【shi】、綴【ri】合【wa】【se】【te】成【tsu】【ta】【mo】【no】【de】、中國佛教【no】傳統【ni】【te】【ra】【se】
+W03n0000_p0024a14_##【ba】、【ko】【no】種【no】經典【ha】偽經【to】見【na】【sa】【re】【ru】。偽經【de】【a】【ru】【to】【i】【u】【ko】【to】
+W03n0000_p0024a15_##【ka】【ra】、【so】【no】【ho】【to】【n】【do】【ni】必要【na】整理【ga】【na】【sa】【re】【zu】、【so】【no】結果傳承【no】
+W03n0000_p0024a16_##過程【de】種種【no】異本【wo】生【mi】出【su】。第一輯【ni】發表【shi】【ta】《天公經》、
+W03n0000_p0024a17_##《佛母經》【ga】【so】【u】【de】【a】【tsu】【ta】【shi】、本輯【no】《相好經》【mo】同樣【de】、樣相【ha】【mo】
+W03n0000_p0024a18_##【tsu】【to】複雜【de】【a】【ru】。【ko】【re】【wo】整理【shi】【ta】現階段【de】【i】【u】【to】、《相好經》【ni】
+W03n0000_p0024a19_##【ha】五本【no】異本【ga】【a】【ri】、二大系統【ni】分【ka】【re】【ru】。【hi】【to】【tsu】【no】經典【ha】時
+W03n0000_p0024a20_##代【no】流【re】【no】【na】【ka】【de】【ka】【ku】【mo】錯雜【shi】【ta】異本【wo】【mo】【tsu】【no】【ha】、古代【ni】【o】【i】
+W03n0000_p0024a21_##【te】【ha】《新菩薩經》【na】【do】少數【no】小規模【no】疑偽經【no】【ho】【ka】、【a】【ma】【ri】【na】【i】
+W03n0000_p0024a22_##【ko】【to】【de】【a】【ru】。【mu】【ro】【n】、【a】【ru】異本間【no】差異【ha】【sa】【ho】【to】【de】【mo】【na】【ku】、【ha】
+W03n0000_p0024a23_##【ta】【shi】【te】【so】【re】【ra】【wo】一本【ni】整理【shi】【te】【yo】【i】【ka】、【so】【re】【to】【mo】區別【shi】【te】異本
+W03n0000_p0024a24_##【to】【su】【be】【ki】【ka】、【yo】【ku】研究【shi】【na】【ke】【re】【ba】【na】【ra】【na】【i】。本輯【ni】發表【shi】【ta】
+W03n0000_p0024a25_##《相好經》【mo】、【so】【u】【shi】【ta】疑偽經【no】異本分化【no】研究【to】檢討【no】【ta】【me】【ni】
+W03n0000_p0024a26_##一資料【to】【shi】【te】提供【su】【ru】【mo】【no】【de】【a】【ru】。
+W03n0000_p0024a27_##<p,0,2>「研究論文」【no】部【ni】【ha】論文一篇【wo】收【me】【ru】。
+W03n0000_p0024a28_##<p,0,2>1930年代【ni】范成和尚【ga】山西趙城廣勝寺【yo】【ri】《金藏》【wo】發見
+W03n0000_p0025a01_##【shi】、蔣唯心【ga】《金藏雕印始末考》【wo】發表【shi】【te】【yo】【ri】、《金藏》【no】評價
+W03n0000_p0025a02_##【ha】日增【shi】【ni】高【ma】【tsu】【te】【ki】【ta】【ga】、資料【ni】乏【shi】【i】【ko】【to】【mo】【a】【tsu】【te】、《金藏》
+W03n0000_p0025a03_##【no】雕印【o】【yo】【bi】【so】【no】後【no】流通過程【ni】【tsu】【i】【ha】、【i】【ma】【hi】【to】【tsu】明確【de】【na】
+W03n0000_p0025a04_##【ka】【tsu】【ta】。【to】【ri】【wa】【ke】《金藏》【no】版木【ga】都【ni】運【ba】【re】【te】弘法寺【ni】保管
+W03n0000_p0025a05_##【sa】【re】、【so】【no】【no】【chi】補雕【wo】【he】【te】《弘法藏》【to】【na】【tsu】【ta】【to】【i】【u】假說【ha】、蔣唯
+W03n0000_p0025a06_##心氏【ga】提出【shi】【te】學界【ni】廣【i】支持【wo】得【ta】【mo】【no】【no】、【na】【o】未解決【no】懸
+W03n0000_p0025a07_##案【to】【na】【tsu】【te】【i】【ru】。本輯【ni】發表【shi】【ta】《金藏新資料考》【ha】、北京圖書
+W03n0000_p0025a08_##館【ni】藏【su】【ru】明代遞修《磧砂藏》【ka】【ra】見出【sa】【re】【ta】《金藏》【ni】關【su】【ru】
+W03n0000_p0025a09_##二篇【no】題記【ni】【tsu】【i】【te】考證【shi】【ta】【mo】【no】【de】、【ko】【re】【ga】《金藏》【wo】【me】【gu】【ru】問
+W03n0000_p0025a10_##題【no】徹底的解決【ni】資【su】【ru】【mo】【no】【de】【a】【ru】【ko】【to】【ha】疑【i】【na】【i】。
+W03n0000_p0025a11_##<p,0,2>【sa】【i】【go】【ni】、全體【ni】【ka】【ka】【wa】【ru】【i】【ku】【tsu】【ka】【no】問題【ni】【tsu】【i】【te】說明【shi】
+W03n0000_p0025a12_##【te】【o】【ki】【ta】【i】。《藏外佛教文獻》【no】第一、二輯【ni】整理發表【shi】【ta】文獻
+W03n0000_p0025a13_##【ni】【ha】、5號【no】楷書體【wo】用【i】、注疏【wo】含【mu】文獻【ha】、本文【wo】5號楷書
+W03n0000_p0025a14_##體、注疏部分【wo】5號書細明體【wo】用【i】【ru】【ko】【to】【wo】原則【to】【shi】、一部【no】特殊
+W03n0000_p0025a15_##【na】版面作成【wo】要【su】【ru】【mo】【no】【ha】、正文【ni】適當【na】大【ki】【i】【PO】【I】【N】【TO】【wo】用
+W03n0000_p0025a16_##【i】、題解【ya】研究論文【na】【do】【ha】一律【ni】5號書細明體【wo】用【i】【te】【ki】【ta】。【ko】
+W03n0000_p0025a17_##【re】【ha】限【ra】【re】【ta】紙幅【wo】最大限【ni】活【ka】【shi】【te】、【de】【ki】【ru】【da】【ke】多【ku】【no】文獻
+W03n0000_p0025a18_##【wo】揭載【shi】【ta】【i】【to】考【e】【ta】【ka】【ra】【de】【a】【ru】【ga】、出版後【su】【ku】【na】【ka】【ra】【za】【ru】【ka】
+W03n0000_p0025a19_##【ta】【ga】【ta】【ka】【ra】、文字【ga】小【sa】【su】【gi】【te】、老人【ni】【ha】讀【mu】【ni】耐【e】【na】【i】、文字
+W03n0000_p0025a20_##【wo】大【ki】【ku】【shi】【te】【mo】【ra】【e】【ma】【i】【ka】【to】【no】意見【ga】【a】【tsu】【ta】。【so】【ko】【de】【ko】【no】第
+W03n0000_p0025a21_##三輯【ka】【ra】【ha】、文獻【no】正文【wo】小4號楷書體、注疏部分【wo】小4號書
+W03n0000_p0025a22_##宋體【ni】改【me】【ru】【ko】【to】【to】【shi】【ta】。題解【to】研究論文【ha】一律5號書宋體
+W03n0000_p0025a23_##【no】【ma】【ma】【de】【a】【ru】。文字【ha】大【ki】【ku】【shi】【ta】【ga】、本書【no】規模【ha】每輯30萬
+W03n0000_p0025a24_##字前後【de】、基本的【ni】變【wa】【ra】【na】【i】。
+W03n0000_p0025a25_##<p,14>1996年12月
+W03n0000_p0026a01_##
+W03n0000_p0026a02Q1#目錄
+W03n0000_p0026a03_##
+W03n0000_p0026a04I1#卷首語　（1）
+W03n0000_p0026a05I1#FOREWORD　（9）
+W03n0000_p0026a06I1#序（日文）　（19）
+W03n0000_p0026a07I1#目錄　（26）
+W03n0000_p0026a08I1#錄文校勘體例　（28）
+W03n0000_p0026a09_##
+W03n0000_p0026a10I1#敦煌禪籍
+W03n0000_p0026a11I2#菩薩總持法　（31）
+W03n0000_p0026a12I2#大乘起世論　（54）
+W03n0000_p0026a13_##
+W03n0000_p0026a14I1#三藏論疏
+W03n0000_p0026a15I2#淨名經集解關中疏卷下　（70）
+W03n0000_p0026a16I2#因緣心論頌　（215）
+W03n0000_p0026a17I2#因緣心論釋　（218）
+W03n0000_p0026a18I2#因緣心論釋開決記　（224）
+W03n0000_p0026a19I2#金剛般若經疏　（259）
+W03n0000_p0026a20I2#瑜伽師地論卷第十四手記　（348）
+W03n0000_p0026a21_##
+W03n0000_p0026a22I1#疑偽經
+W03n0000_p0026a23I2#佛說相好經　（404）
+W03n0000_p0026a24_##
+W03n0000_p0027a01I1#研究論文
+W03n0000_p0027a02I2#《金藏》新資料考　（446）
+W03n0000_p0027a03I1#《藏外佛教文獻》第一、二輯要目　（464）
+W03n0000_p0027a04I1#徵稿啟事　（467）</L>
+W03n0000_p0028a01_##
+W03n0000_p0028a02Q1#錄文校勘體例
+W03n0000_p0028a03_##
+W03n0000_p0028a04I##<p,0,2>一、整理者應儘量收齊所整理典籍的各種文本，以供校勘之
+W03n0000_p0028a05_##用。
+W03n0000_p0028a06_##<p,0,2>如收集到的文本的數量少於十種，則全部用於校勘。如數量
+W03n0000_p0028a07_##超過十種，則可根據具體情況在其中選擇有代表性的若干文本
+W03n0000_p0028a08_##（十種左右）用於校勘，而將其它文本在題解或附錄中一一予以說
+W03n0000_p0028a09_##明。如文本數量超過二十種，則不必一一說明，但應該列舉主要
+W03n0000_p0028a10_##文本（不少於二十種）的名稱（或編號、出處）。
+W03n0000_p0028a11_##<p,0,2>如因某些文本錯漏甚多，或因其他理由，亦可不按上述規定
+W03n0000_p0028a12_##列為校本，或祇利用其準確的部分，但必須予以說明。
+W03n0000_p0028a13_##<p,0,2>確定用於校勘的文本後，於其中指定某本作為底本，而將其
+W03n0000_p0028a14_##餘諸本指定為校本。校本以天干次序排列。底校本的指定情況
+W03n0000_p0028a15_##在題解中予以交代。如果底本乃由若干文本拼合而成，則在題解
+W03n0000_p0028a16_##中以「底本由某本、某本、某本依次拼合而成，具體情況隨文說明」
+W03n0000_p0028a17_##這樣的語句敘述之，並在正文中隨文說明諸本作為底本之拼合起
+W03n0000_p0028a18_##訖。在這種情況下，凡某本在某段文字中被指定為底本，則其餘
+W03n0000_p0028a19_##諸本（包括在其餘文字中曾經作為底本使用的文本）一律作為校
+W03n0000_p0028a20_##本。
+W03n0000_p0028a21I##<p,0,2>二、整理者撰寫題解一篇，內容一般依次為經名、異名、定性
+W03n0000_p0028a22_##語、著譯者、卷數、內容簡介、研究價值、流傳概況（包括歷代經錄
+W03n0000_p0028a23_##有無著錄）、異本、整理本所用底、校本情況等。題解置於整理本
+W03n0000_p0028a24_##之前。
+W03n0000_p0028a25_##<p,0,2>歡迎整理者對所整理文獻作文獻學方面考證研究，題目自
+W03n0000_p0028a26_##定，一般作為附錄載於原文獻之後。
+W03n0000_p0028a27I##<p,0,2>三、校勘錄文時，如遇異文，整理者應慎重考訂，選擇其最準
+W03n0000_p0029a01_##確者納入整理本，以吸收諸本精華；而將諸本之異文一概納入校
+W03n0000_p0029a02_##記，以供研究者參考。
+W03n0000_p0029a03I##<p,0,2>四、校錄時，因原文本殘缺而使文獻首、中、尾殘缺者，以「（首
+W03n0000_p0029a04_##殘）」、「（中殘）」、「（尾殘）」表示之。
+W03n0000_p0029a05_##<p,0,2>如文本不殘，但抄寫者未抄完整而使文獻殘缺者，則分別以
+W03n0000_p0029a06_##「（首缺）」、「（中缺）」、「（尾缺）」表示之。
+W03n0000_p0029a07I##<p,0,2>五、因底本殘缺而使文字殘缺者，以「□」表示之。殘字可考
+W03n0000_p0029a08_##字數者，一字一「□」。殘字不可考字數者，以「□…□」表示之。
+W03n0000_p0029a09I##<p,0,2>六、原文雖然殘缺，但尚留有殘字筆痕可據以擬補，或可據上
+W03n0000_p0029a10_##下文意、其它文獻擬補者，予以補出。此時出校記說明補正依據。
+W03n0000_p0029a11I##<p,0,2>七、原文本因抄寫者未抄而留下的空格，錄文時如可以擬補
+W03n0000_p0029a12_##者，仿照上條擬補之。如不可擬補者，以「□」表示之，出校記說
+W03n0000_p0029a13_##明。但如果屬於行文格式需要之換行空、敬空等，照錄原文，不出
+W03n0000_p0029a14_##校記。
+W03n0000_p0029a15I##<p,0,2>八、校本如有殘缺，則略去不校，亦不出校記。
+W03n0000_p0029a16I##<p,0,2>九、校記的原則：逢異必出，儘量簡略，達意為主。
+W03n0000_p0029a17_##<p,0,2>如底本正確，則應在校記中羅列諸本異文，如：
+W03n0000_p0029a18_##<p,0,2>「白」，甲、乙本作「黑」，丙本作「紅」，丁本無。
+W03n0000_p0029a19_##<p,0,2>如底本錯誤，則據他本改正錄文後，校記作：
+W03n0000_p0029a20_##<p,0,2>「黑」，底、戊本作「白」，丙本作「紅」，丁本無，據甲、乙本改。
+W03n0000_p0029a21_##<p,0,2>如底本漏字據某本補，或底本衍字據某本刪，則校記註明為
+W03n0000_p0029a22_##「據某本補」或「據某本刪」。
+W03n0000_p0029a23_##<p,0,2>雖無校本依據，但行文明顯錯誤者，可進行理校，出校記說
+W03n0000_p0029a24_##明。如無把握，可原文照錄，而把理校意見記入校記。
+W03n0000_p0029a25_##<p,0,2>必要時可出解釋性、研究性校記，但應文字簡練。
+W03n0000_p0029a26I##<p,0,2>十、古今字、異體字、正俗字、武周新字一律改為標準繁體字，
+W03n0000_p0029a27_##不出校記。原文筆誤、筆劃增減及變體者，逕直改為正字，不出校
+W03n0000_p0029a28_##記。
+W03n0000_p0030a01_##<p,0,2>錯別字改為正字，出校記。如在同一篇文獻中某些錯別字反
+W03n0000_p0030a02_##覆出現，則僅在首次出現時予以註出，其後不再一一出校記。
+W03n0000_p0030a03_##<p,0,2>通假字第一次出現時改為正字，出校記；以後徑直改為正字，
+W03n0000_p0030a04_##不出校記。
+W03n0000_p0030a05_##<p,0,2>專有名詞中的字一律照錄，不作改動。
+W03n0000_p0030a06_##<p,0,2>錄文所用繁體字，以《漢語大字典》（四川人民出版社與湖北
+W03n0000_p0030a07_##人民出版社出版，1993年11月第一版）為準。該詞典未包括的漢
+W03n0000_p0030a08_##字，則斟酌其它辭書決定之。
+W03n0000_p0030a09I##<p,0,2>十一、原文有倒勾、刪除符號者，一律依照改正，不出校記。
+W03n0000_p0030a10_##原文有塗改者，祇錄改正後的文字。不能確定哪些是改正後的文
+W03n0000_p0030a11_##字者，酌選其一，而將其餘文字錄寫在校記中。原文寫在行外的
+W03n0000_p0030a12_##補字，錄文時補入行內，不出校記。不能確定補在何處者，錄寫在
+W03n0000_p0030a13_##校記中。
+W03n0000_p0030a14I##<p,0,2>十二、引文能查核原出處者，儘量查核，此時加引號，並註明
+W03n0000_p0030a15_##出處。一時查不到原出處，但可以確定首尾者，加引號。不能確
+W03n0000_p0030a16_##定其首尾者，不加引號。
+W03n0000_p0030a17I##<p,0,2>十三、一般文獻不保留原行款，依照內容需要另行分段、分
+W03n0000_p0030a18_##節，必要時並加段號或節號。特殊文獻必須保留原文行款者，則
+W03n0000_p0030a19_##予以保留。
+W03n0000_p0030a20I##<p,0,2>十四、錄校時一律採用新式標點。
+W03n0000_p0030a21I##<p,0,2>十五、特殊情況，隨文說明。</L>
+W03n0000_p0464a01_##
+W03n0000_p0464a02Q1#《藏外佛教文獻》第一輯、第二輯要目
+W03n0000_p0464a03_##
+W03n0000_p0464a04I1#<p,0,2>敦煌禪籍專欄
+W03n0000_p0464a05I2#<p,0,2>第一輯：《天竺國菩提達摩禪師論》、《禪策問答》、《息
+W03n0000_p0464a06_##諍論》；
+W03n0000_p0464a07I2#<p,0,2>第二輯：《七祖法寶記下卷》、《天竺國菩提達摩禪師
+W03n0000_p0464a08_##論》。
+W03n0000_p0464a09_##
+W03n0000_p0464a10I1#<p,0,2>密教典籍專欄
+W03n0000_p0464a11I2#<p,0,2>第一輯：《八種粗重犯墮》。
+W03n0000_p0464a12_##
+W03n0000_p0464a13I1#<p,0,2>三藏論疏專欄
+W03n0000_p0464a14I2#<p,0,2>第一輯：《天請問經疏》、《〈行事鈔〉中分門圖錄》、
+W03n0000_p0464a15_##《阿毗達磨俱舍論實義疏》；
+W03n0000_p0464a16I2#<p,0,2>第二輯：《淨名經集解關中疏卷上》、《法華經文外
+W03n0000_p0464a17_##義》。
+W03n0000_p0464a18_##
+W03n0000_p0464a19I1#<p,0,2>疑偽經專欄
+W03n0000_p0464a20I2#<p,0,2>第一輯：《佛為心王菩薩說頭陀經》、《佛說孝順子修
+W03n0000_p0464a21_##行成佛經》、《最妙勝定經》、《水月觀音經》、《佛說金剛經
+W03n0000_p0464a22_##纂》、《大方廣華嚴十惡品經》、《天公經》、《佛母經》。
+W03n0000_p0465a01_##
+W03n0000_p0465a02I1#<p,0,2>天竺要典專欄
+W03n0000_p0465a03I2#<p,0,2>第二輯：《諦義證得經》。
+W03n0000_p0465a04_##
+W03n0000_p0465a05I1#<p,0,2>遺珠集粹專欄
+W03n0000_p0465a06I2#<p,0,2>第二輯：《〈瑜伽師地論〉披尋記敘》。
+W03n0000_p0465a07_##
+W03n0000_p0465a08I1#<p,0,2>研究論文專欄
+W03n0000_p0465a09I2#<p,0,2>第一輯：《關於禪藏與敦煌禪籍的若干問題》；
+W03n0000_p0465a10I2#<p,0,2>第二輯：大藏經編纂及電腦化研討會論文特集，共
+W03n0000_p0465a11_##十一篇。</L>
+W03n0000_p0466a01_##
+W03n0000_p0467a01_##
+W03n0000_p0467a02Q1#徵稿啟事
+W03n0000_p0467a03_##
+W03n0000_p0467a04I1#一、《藏外佛教文獻》以整理藏外佛教文獻與發展佛教文獻學
+W03n0000_p0467a05_##為宗旨。
+W03n0000_p0467a06I1#二、凡對諸種藏外佛教文獻進行整理精校、纂為定本的文稿，
+W03n0000_p0467a07_##和佛教文獻學方面的研究論文，均無任歡迎。
+W03n0000_p0467a08I1#三、凡對藏外佛教文獻進行整理的文稿，要求：
+W03n0000_p0467a09I2#1、請事先來函聯[係>繫]。一則編委會將儘量協助整理
+W03n0000_p0467a10_##者搜尋、彙齊各種底、校本；二則避免與編委會已經安
+W03n0000_p0467a11_##排的整理計劃衝突，造成人力、物力的浪費。
+W03n0000_p0467a12I2#2、關於整理稿的各種要求，請參見《錄文體例》，
+W03n0000_p0467a13_##具體處理方式，則參見本書刊登之諸文。
+W03n0000_p0467a14I2#3、函寄文稿時請連同底、校本一並惠賜，以便復
+W03n0000_p0467a15_##核。
+W03n0000_p0467a16I1#四、翻譯稿件，務請徵得原作者同意，以免發生版權糾紛。
+W03n0000_p0467a17_##譯文中請註明原文出處及原作者姓名。並附原文複印
+W03n0000_p0467a18_##件，以便校對。
+W03n0000_p0467a19I1#五、文稿發表時的署名尊重本人意願。但惠賜時務請寫明真
+W03n0000_p0467a20_##實姓名、詳細聯[係>繫]地址、郵政編碼、電話等，以便聯[係>繫]。
+W03n0000_p0467a21_##編委會將採用研究班形式對每一篇來稿進行審定、修改，
+W03n0000_p0467a22_##在條件許可的情況下，將邀請來稿者參加研究班，共同
+W03n0000_p0467a23_##審定、修改文稿。故來稿時請說明是否同意編委會修改
+W03n0000_p0467a24_##以及能否參加研究班。
+W03n0000_p0467a25I1#六、來稿請用十六開正式稿紙用繁體字書寫，校記、註釋一
+W03n0000_p0467a26_##律為腳註。要求文字端正、清楚。
+W03n0000_p0467a27_##歡迎提供電腦軟盤，請以文本文件的形式儲存，繁簡字
+W03n0000_p0468a01_##體均可，註釋請用隨文註，並請附信說明需要自造的漢
+W03n0000_p0468a02_##字及提供繁體字打印稿。
+W03n0000_p0468a03I1#七、限於人力，來稿一般不退。是否採用，三個月之內必定
+W03n0000_p0468a04_##函覆。需要退稿者，請來函說明。
+W03n0000_p0468a05I1#八、歡迎各界人士提供藏外佛教文獻的信息與諸種底、校本。
+W03n0000_p0468a06I1#九、來稿或提供的諸種底、校本一經採用，即付稿酬。或按
+W03n0000_p0468a07_##照作者希望的形式致酬。凡提供電腦軟盤者，酌致有關
+W03n0000_p0468a08_##費用。
+W03n0000_p0468a09I1#十、來稿及有關聯[係>繫]事項，均請寄：
+W03n0000_p0468a10I2#中國北京建國門內大街五號中國社會科學院
+W03n0000_p0468a11_##世界宗教研究所<I3>郵政編碼：100732
+W03n0000_p0468a12I2#或：中國北京朝陽區勁松西口潘家園
+W03n0000_p0468a13_##一號樓一○五室<I3>郵政編碼：100021
+W03n0000_p0468a14I2#方廣錩收</L>
+W03n0000_p0468a15_##
+W03n0000_p0468a16_##<p,14>《藏外佛教文獻》編委會
+W03n0000_p0468a17_##<p,16>一九九五年十二月
+W03n0000_p0469a01_##
+W03n0000_p0469a02Q1#編委會名單
+W03n0000_p0469a03_##
+W03n0000_p0469a04Pr#顧　問：　趙樸初　任繼愈
+W03n0000_p0469a05r##　　　　　周紹良　吳立民
+W03n0000_p0469a06r##主　編：　方廣錩
+W03n0000_p0469a07r##副主編：　李家振　姚長壽
+W03n0000_p0469a08r##　　　　　蘇　軍　華方田
+W03n0000_p0469a09r##常務編委（以姓氏筆劃為序）：
+W03n0000_p0469a10r##　　　方廣錩　李家振　李際寧
+W03n0000_p0469a11r##　　　姚長壽　徐紹強　華方田
+W03n0000_p0469a12r##　　　黃維中　黎　明　蘇　軍
+W03n0000_p0469a13r##編委（以姓氏筆劃為序）：
+W03n0000_p0469a14r##　　　方廣錩　史　平　李家振
+W03n0000_p0469a15r##　　　李際寧　何　雲　姚長壽
+W03n0000_p0469a16r##　　　徐建華　徐紹強　張文良
+W03n0000_p0469a17r##　　　張新鷹　華方田　黃夏年
+W03n0000_p0469a18r##　　　黎　明　蘇　軍
+W03n0000_p0469a19r##海外編委：
+W03n0000_p0469a20r##　　　落合俊典（日本）
+W03n0000_p0469a21r##　　　胡海燕（德國）
+W03n0000_p0469a22r##　　　陳金華（加拿大）
+W03n0000_p0470a01_##
+W03n0000_p0470a02Q1#《Buddhist Texts Not Contained in the Tripi.taka》
+W03n0000_p0470a03Q1=Editorial Board
+W03n0000_p0470a04_##
+W03n0000_p0470a05I1#Advisers: ZHAO Puchu. REN Jiyu. ZHOU Shaoliang. WU Limin.
+W03n0000_p0470a06I1#Editor-in-Chief: FANG Guangchang.
+W03n0000_p0470a07I1#Joint Editors: Li Jiazhen. YAO Changshou. SU Jun. HUA Fangtian.
+W03n0000_p0470a08I1#Board of Consulting Editors: FANG Guangchang. HUA Fangtian.
+W03n0000_p0470a09_##HUANG Weizhong. LI Jining. LI Jiazhen. LI Ming. SU Jun. XU
+W03n0000_p0470a10_## Shaoqiang. YAO Changshou.
+W03n0000_p0470a11I1#Editors abroad:
+W03n0000_p0470a12I2#Japan: Toshinori OCHIAI.
+W03n0000_p0470a13I2#Germany/Europa: Haiyan HU-ON HIN:UBER.
+W03n0000_p0470a14I2#Canada/America: CHEN Jinhua.</L>
+W03n0000_p0470a15_##
+W03n0000_p0470a16P##Publication programme, 1997: Volume 3 (ISBN 7-80123-092-2,
+W03n0000_p0470a17_## CIP (97) 03053)
+W03n0000_p0470a18P##Subscription prices, per volume: USD 20. 00, including postage (sea
+W03n0000_p0470a19_## mail).
+W03n0000_p0470a20P##Prices, for singer volumes: USD 20. 00 plus USD 2. 00 postage (sea
+W03n0000_p0470a21_## mail) or USD 6. 00 (air mail).
+W03n0000_p0470a22P##Subscription should be sent to FANG Guangchang, Institute for Research
+W03n0000_p0470a23_## on world Religions, Chinese Academy
+W03n0000_p0470a24_## of Social Sciences, 5 Jian Guo Men Nei Street, Beijing
+W03n0000_p0470a25_## 100732, or to any of our editors abroad.
+W03n0000_p0470a26P##Changes of mailing address should be notified together with our latest
+W03n0000_p0470a27_## label.
+W03n0000_p0470a28P##It would be [appreaciated>appreciated] if correspondence [realtiong>relation] to editorial matters,
+W03n0000_p0470a29_## as well as articles for publications,
+W03n0000_p0470a30_## were addressed as follows:
+W03n0000_p0470a31I##FANG Guangchang, Institute for Research on world Religions,
+W03n0000_p0470a32_## Chinese Academy of Social Sciences, 5 Jian Guo Men Nei Street, Beijing
+W03n0000_p0470a33_## 100732.
+W03n0000_p0470a34I##Toshinori OCHIAI, College: 3-456 RINKACHO,
+W03n0000_p0470a35I##HIGASHIYAMA, KYOTO, P-605, JAPAN.
+W03n0000_p0470a36I##Haiyan HU-VON HIN:UBER, Kart:auserstraBe 138, D-79102
+W03n0000_p0470a37_## Freiburg, Germany.</L>
+W03n0000_p0471a01_##
+W03n0000_p0471a02Q1#鳴謝
+W03n0000_p0471a03_##
+W03n0000_p0471a04I1#本輯資助單位
+W03n0000_p0471a05_##
+W03n0000_p0471a06I2#<p,0,2>中國佛教文化研究所
+W03n0000_p0471a07I2#<p,0,2>香港志蓮淨苑
+W03n0000_p0471a08I2#<p,0,2>山西佛教文化事業總公司
+W03n0000_p0471a09_##
+W03n0000_p0471a10I1#個人捐助
+W03n0000_p0471a11_##
+W03n0000_p0471a12I2#<p,0,2>釋依昱（台灣高雄）　　1000元
+W03n0000_p0471a13I2#<p,0,2>黃祝荷（湖南茶陵）　　46元
+W03n0000_p0471a14I2#<p,0,2>李向上（甘肅甘谷）　　32元</L>
