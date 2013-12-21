@@ -22,7 +22,7 @@ y:張裕蓮提供新式標點
 x:陳伯勳大德提供新式標點
 i:黃金愛大德提供新式標點
 
-4:北美某大德提供, Text as provided by Anonymous, USA
+4:北美某大德提供, Text as provided by Anonymous from USA
 S:蕭鎮國大德提供, Text as provided by Mr. Hsiao Chen-Kuo
 K:維習安大德提供之高麗藏 CD 經文, Tripitaka Koreana as provided by Mr. Christian Wittern
 O:CBETA 自行掃瞄辨識, CBETA OCR Group
@@ -37,7 +37,7 @@ m:Melon 提供新式標點, Punctuated text as provided by Melon
 f:范振業大德提供新式標點, Punctuated text as provided by Mr. Fan Zhen-Ye
 c:Jaero Chen 提供新式標點, Punctuated text as provided by Jaero Chen
 j:Jasmine 提供新式標點, Punctuated text as provided by Jasmine
-q:毛佩君、廖予安、廖予慈大德提供新式標點, Punctuated text as provided by Mao Pei-Jun, Liao Yu-An, and Liao Yu-Ci
+q:毛佩君、廖予安、廖予慈大德提供新式標點, Punctuated text as provided by Mao Pei-Jun and Liao Yu-An and Liao Yu-Ci
 p:波羅提供新式標點, Punctuated text as provided by Po-Luo
 u:釋振溥法師提供新式標點, Punctuated text as provided by Ven. Shi Zhen-Pu
 y:張裕蓮提供新式標點, Punctuated text as provided by Zhang Yu-Lian
