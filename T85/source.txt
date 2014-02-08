@@ -11,8 +11,8 @@ B:蘇明健大德輸入, Text as inputted by Mr. Su Ming-Jian
 C:陳妙如大德輸入, Text as inputted by Miss Chen Miao-Ru
 A:田萬頂、楊穩燕大德輸入, Text as inputted by Mr. Tian Wan-Ding and Miss Yang Wen-Yan
 *:慧然法師輸入, Text as inputted by Ven. Huiran
-j:Jasmine 提供新式標點, Punctuated text as provided by Jasmine
-p:波羅提供新式標點, Punctuated text as provided by Po-Luo
+j:Jasmine 大德提供新式標點, Punctuated text as provided by Jasmine
+p:波羅大德提供新式標點, Punctuated text as provided by Po-Luo
 g:黃桂芳大德提供新式標點, Punctuated text as provided by Huang Gui-Fan
 y:葉居士提供新式標點, Punctuated text as provided by Ye
 
