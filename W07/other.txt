@@ -563,7 +563,7 @@ W07n0000_p0023a05_##
 W07n0000_p0023a06_##<p,0,2>¤@¤E¤E¤K¦~¤E¤ë¡B¡mÂÃ¥~¦ò±Ð¤åÄm¡n²Ä¥|¡B²Ä¤­¡B²Ä¤»
 W07n0000_p0023a07_##¿è¡ino¡j¤T¥U¡iwo¡j¥Xª©¡ishi¡j¡ite¡j¡ika¡j¡ira¡j¡B¤@¦~¡ito¡j¤E¡iKE¡j¤ë¡iga¡j¸g¹L¡ishi¡j¡B¡iyo¡j¡iu¡j¡iya¡j
 W07n0000_p0023a08_##¡iku¡j²Ä¤C¿è¡ino¡j¥Xª©¡ini¡j¡iko¡j¡igi¡j¡itsu¡j¡ike¡j¡ita¡j¡C½s¶°§@·~¡iha¡j¡iho¡j¡ibo¡j²×¤F¡ishi¡j¡B¡iko¡j
-W07n0000_p0023a09_##¡ino¡j§Ç¤å¡iwo¡j®Ñ¡iku¡j¡ini¡j¡ia¡j¡ita¡j¡itsu¡j¡ite¡j¡B¡u¤ß¼é¬¤´é¡B·P´n¨t¤§¡]¼ËÆà¡ina¡j
+W07n0000_p0023a09_##¡ino¡j§Ç¤å¡iwo¡j®Ñ¡iku¡j¡ini¡j¡ia¡j¡ita¡j¡itsu¡j¡ite¡j¡B¡u¤ß¼é¬¤´é¡B·P´n¨t¤§¡]¼Ë[?¤i]¡ina¡j
 W07n0000_p0023a10_##«ä¡ii¡j¡ide¡j·P´n¡ihi¡j¡ito¡j¡ishi¡j¡io¡j¡^¡v¡ino¡j¤K¦r¡iga¡j¤µ¡ino¡j¨p¡ino¡j¤ß¹Ò¡ide¡j¡ia¡j¡iru¡j¡C
 W07n0000_p0023a11_##<p,0,2>¦ò±Ð¡iha¡j¤H¥Í¡ino¡j¤K­W¡iwo¡j»¡¡iku¡j¡C¡isu¡j¡ina¡j¡iwa¡j¡ichi¡j¥Í­W¡B¦Ñ­W¡B¯f­W¡B
 W07n0000_p0023a12_##¦º­W¡B·R§OÂ÷­W¡B«è¼¨·|­W¡B¨D¤£±o­W¡B¼~´d´o­W¡ide¡j¡ia¡j¡iru¡j¡C
@@ -572,12 +572,12 @@ W07n0000_p0023a14_##¡ina¡j¡ii¡j¡ima¡j¡ide¡j¡imo¡j¡B¡ido¡j¡iu¡j¡iya¡j¡ira¡j¤­¨ý¡i
 W07n0000_p0023a15_##¡itsu¡j¡ita¡j¡ii¡j¤K­W¡ino¡jµo¥Í¡iha¡j¡u¤­³±²±¡v¡ini¡j¡iko¡j¡iso¡j­ì¦]¡iga¡j¡ia¡j¡iru¡j¡C¦Ñ¤l¡iga¡j
 W07n0000_p0023a16_##¡iso¡j¡ire¡j¡iwo¡j­z¡ibe¡j¡ite¡j¡ii¡j¡iru¡j¡C¡u§Ú¡ini¡j¡iwa¡j¡izu¡j¡ira¡j¡ii¡j¡iga¡j¡ia¡j¡iru¡j¡ino¡j¡iha¡j¡B§Ú¡iga¡j¨­¡iga¡j
 W07n0000_p0023a17_##¡ia¡j¡iru¡j¡ika¡j¡ira¡j¡C§Ú¡iga¡j¨­¡iga¡j¡ina¡j¡ike¡j¡ire¡j¡iba¡j¡B¦ó¡iwo¡j¡iwa¡j¡izu¡j¡ira¡j¡io¡j¡iu¡j¡ika¡j¡v¡ito¡j¡C¡ishi¡j
-W07n0000_p0023a18_##¡ika¡j¡ishi¡j¤éÆà¡ino¡j¥Í¬¡¡iha¡j¡iya¡j¡imu¡j¡iko¡j¡ito¡j¡ina¡j¡iku¡j¡B¦h¡iku¡j¡ino¡j³d¥ô¡iya¡j§@·~¡iwo¡j¹E¦æ
+W07n0000_p0023a18_##¡ika¡j¡ishi¡j¤é[?¤i]¡ino¡j¥Í¬¡¡iha¡j¡iya¡j¡imu¡j¡iko¡j¡ito¡j¡ina¡j¡iku¡j¡B¦h¡iku¡j¡ino¡j³d¥ô¡iya¡j§@·~¡iwo¡j¹E¦æ
 W07n0000_p0023a19_##¡ishi¡j¡ite¡j¡ii¡j¡ika¡j¡ina¡j¡ike¡j¡ire¡j¡iba¡j¡ina¡j¡ira¡j¡ina¡j¡ii¡j¡C¡mÂÃ¥~¦ò±Ð¤åÄm¡n¡iwo¡j½sÄ¡¡isu¡j¡iru¡j
 W07n0000_p0023a20_##¡iko¡j¡ito¡j¡imo¡j¦P¡izi¡j¡iko¡j¡ito¡j¡ide¡j¡ia¡j¡iru¡j¡C®É¡ini¡j«ä¡iu¡j¡iko¡j¡ito¡j¡iha¡j¡B¤H¥Í¡ino¡j±À¶i¤O¡iha¡j
 W07n0000_p0023a21_##¥L¡ide¡j¡imo¡j¡ina¡j¡iku¡j³d¥ô¡ito¡j¨Æ·~¡ito¡j¡ini¡j¡ia¡j¡iru¡j¡ino¡j¡ide¡j¡iha¡j¡ina¡j¡ii¡j¡ika¡j¡ito¡j¡C¡ishi¡j¡ika¡j¡ishi¡j¥»
 W07n0000_p0023a22_##¨Ó¡ina¡j¡ira¡j¡iba¡j¤@¤E¤E¤E¦~¡ino¡j¤W¥b´Á¡ini¡j¥Xª©¡isu¡j¡iru¡j¡iha¡j¡izu¡j¡ino¡j²Ä¤C¿è¡iga¡j¡B
-W07n0000_p0023a23_##¤GÆâÆâÆâ¦~¡ini¡j¡ima¡j¡ide¡jò²¡iri¡j¶V¡ishi¡j¡ite¡j¡ishi¡j¡ima¡j¡itsu¡j¡ita¡j¡iko¡j¡ito¡j¡iha¡j¡B§@ªÌ¡ito¡jÅªªÌ¡B
+W07n0000_p0023a23_##¤G¡³¡³¡³¦~¡ini¡j¡ima¡j¡ide¡jò²¡iri¡j¶V¡ishi¡j¡ite¡j¡ishi¡j¡ima¡j¡itsu¡j¡ita¡j¡iko¡j¡ito¡j¡iha¡j¡B§@ªÌ¡ito¡jÅªªÌ¡B
 W07n0000_p0023a24_##§ó¡ini¡j¥»®Ñ¡ini¡jÃö¤ß¡iwo¡j©ê¡iku¡j½Ñ½å¡ini¡j¹ï¡ishi¡j¥Ó¡ishi¡j¶}¡iki¡j¡isu¡j¡iru¡j¡isu¡j¡ibe¡j¡imo¡j¡ina¡j
 W07n0000_p0023a25_##¡ii¡j¡C¡ita¡j¡ida¡j¨¥¡ie¡j¡iru¡j¡iko¡j¡ito¡j¡iha¡j¡B¤µ«á¡iha¡j¡isu¡j¡ibe¡j¡ite¡j¡ino¡j§xÃø¡iwo¡j§JªA¡ishi¡j¡B¡mÂÃ
 W07n0000_p0023a26_##¥~¦ò±Ð¤åÄm¡n¡ino¡j½sÄ¡¡ini¡jºÉ¤O¡ishi¡j¡ite¡j¡iyu¡j¡iku¡j¡ito¡j¡ii¡j¡iu¡j¡iko¡j¡ito¡j¡ida¡j¡ike¡j¡ide¡j¡ia¡j¡iru¡j¡C
@@ -586,7 +586,7 @@ W07n0000_p0023a28_##<p,0,2>¡u¤TÂÃµù²¨¡v¡ino¡j¶µ¡ini¡j¡iha¡j¡B©v±K¡ino¡j¡mª`¤ß­nª
 W07n0000_p0024a01_##¡ishi¡j¡ita¡j¡C¡m¤ß­nªkªù¡n¡iha¡jµØÄY©v¡ino¡j¦W¹¬¼áÆ[¡iga¡jµÛ¡ishi¡j¡ita¡j¡imo¡j¡ino¡j¡ide¡j¡B
 W07n0000_p0024a02_##¥÷¶q¡iko¡j¡iso¡j¤Ö¡ina¡j¡ii¡j¡iga¡j¡B¡iso¡j¡ino¡j¤º®e¡iha¡j²`»·¡ini¡j¡ishi¡j¡ite¡jµØÄY©v¡ino¡j±Ð¸q¡ino¡j
 W07n0000_p0024a03_##­nÂI¡iwo¡j¥]¬A¡ishi¡j¡ite¡j¡ii¡j¡iru¡j¡C¡m¤ß­nªkªù¡n¡iha¡j¡m´º¼w¶Ç¿O¿ý¡n¨÷²Ä
-W07n0000_p0024a04_##¤TÆâ¡ini¡j§t¡ima¡j¡ire¡j¡ite¡j¡ii¡j¡iru¡j¡iga¡j¡B§O¦æ¥»¡ito¡j¡ishi¡j¡ite¡j¡iha¡j¶Ç¡iwa¡j¡itsu¡j¡ite¡j¡ii¡j¡ina¡j¡ii¡j¡C
+W07n0000_p0024a04_##¤T¡³¡ini¡j§t¡ima¡j¡ire¡j¡ite¡j¡ii¡j¡iru¡j¡iga¡j¡B§O¦æ¥»¡ito¡j¡ishi¡j¡ite¡j¡iha¡j¶Ç¡iwa¡j¡itsu¡j¡ite¡j¡ii¡j¡ina¡j¡ii¡j¡C
 W07n0000_p0024a05_##©v±K¡iha¡jµØÄY©v¡iya¡jÁI©v¡ino¡jªkªù¡iwo¡j¨ü¡ike¡j¡ita¡j­ð¥N¡ino¡jµÛ¦W¡ina¡j¸q¾Ç¡ino¡j
 W07n0000_p0024a06_##°ª¹¬¡ide¡j¡ia¡j¡iri¡j¡B¥Í²P¼Æ¦h¡iku¡j¡ino¡j¸g¨å¡ini¡jµùÄÀ¡iwo¡j¡ishi¡j¡ita¡j¡C¡iso¡j¡ino¡j©¼¡iga¡j¼á
 W07n0000_p0024a07_##Æ[¡ino¡j¡m¤ß­nªkªù¡n¡iwo¡jµùÄÀ¡ishi¡j¡ita¡j¡ito¡j¡ishi¡j¡ite¡j¡imo¡j§O¬q¤£«äÄ³¡ina¡j¡iko¡j¡ito¡j¡ide¡j
@@ -595,7 +595,7 @@ W07n0000_p0024a09_##¡ina¡j¡ike¡j¡ire¡j¡iba¡j¡B¸g¨å¥Ø¿ý¡ini¡jµÛ¿ý¡isa¡j¡ire¡j¡ita
 W07n0000_p0024a10_##¡iso¡j¡ino¡j¥÷¶q¡ino¡j¤Ö¡ina¡j¡isa¡j¡iga¡j­ì¦]¡ide¡j¡ia¡j¡itsu¡j¡ite¡j¡B©v±K¡ino¡jµÛ§@¥Ø¿ý¡ide¡j¡ia¡j¡iru¡j
 W07n0000_p0024a11_##´°·×¿ò®Ñ¤¤¡ino¡j¡m¤j­¼ÁIªù­n¿ý¡n¡ini¡j¡isu¡j¡ira¡j¡iso¡j¡ino¡j¦W¡iwo¡j¨£¡ina¡j¡ii¡j¡ino¡j¡ide¡j
 W07n0000_p0024a12_##¡ia¡j¡iru¡j¡C¡ishi¡j¡ika¡j¡ishi¡j¡iko¡j¡ino¡j©v±K¡ino¡jµùÄÀ¡iha¡j¹ê¡ini¡j¡isu¡j¡iba¡j¡ira¡j¡ishi¡j¡iku¡j¡Bªí²{¡iha¡jÂ²
-W07n0000_p0024a13_##¼ä¡ini¡j¡ishi¡j¡ite¡j¤º®e¡iha¡j¸Ó³Õ¡ide¡j¡ia¡j¡iri¡j¡B§ÚÆà¡iga¡jµØÄY©v¡ito¡j©v±K¡ino¡j«ä·Q¡iwo¡j
+W07n0000_p0024a13_##¼ä¡ini¡j¡ishi¡j¡ite¡j¤º®e¡iha¡j¸Ó³Õ¡ide¡j¡ia¡j¡iri¡j¡B§Ú[?¤i]¡iga¡jµØÄY©v¡ito¡j©v±K¡ino¡j«ä·Q¡iwo¡j
 W07n0000_p0024a14_##¬ã¨s¡isu¡j¡iru¡j»Ú¡ino¡j­«­n¡ina¡j¸ê®Æ¡ito¡j¡ina¡j¡iru¡j¡ino¡j¡ide¡j¡ia¡j¡iru¡j¡C
 W07n0000_p0024a15_##<p,0,2>¡iko¡j¡ino¡j¡mª`¤ß­nªkªù¡n¡iha¡j¦è®L¡ino¡j¬G¦a¡ide¡j¡ia¡j¡iru¡j¶Â«°¡ide¡jµo¨£¡isa¡j
 W07n0000_p0024a16_##¡ire¡j¡B²{¦b¡iha¡j¡iRO¡j¡iSHI¡j¡iA¡j¡ino¡j¡iSA¡j¡iN¡j¡iKU¡j¡iTO¡j¡iPE¡j¡iTE¡j¡iRU¡j¡iSU¡j¡iBU¡j¡iRU¡j¡iGU¡j¡ini¡j©ÒÂÃ¡isa¡j¡ire¡j¡ite¡j
@@ -648,7 +648,7 @@ W07n0000_p0026a06_##<p,0,2>¥»®Ñ²Ä¤»¿è¡ide¡jµoªí¡ishi¡j¡ita¡j¶³«n¡ino¡jªü¦\¤O¡]¡i
 W07n0000_p0026a07_##¸ê®Æ¡iha¡j¡BÅªªÌ¡ino¡jª`·N¡iwo¡j¤Þ¡iku¡j¡ito¡j¡iko¡j¡iro¡j¡ito¡j¡ina¡j¡itsu¡j¡ita¡j¡C¡iko¡j¡ire¡j¡ira¡j¡ino¡j¸ê®Æ
 W07n0000_p0026a08_##¡ino¡j½T¡ika¡j¡isa¡j¡iha¡j¡B·s¡ishi¡j¡ii¡j¬ã¨s»â°ì¡iwo¡j¶}©Ý¡isu¡j¡iru¡j¡iko¡j¡ito¡j¡ini¡j¡ina¡j¡iru¡j¡ito¡j¨¥¡ie¡j
 W07n0000_p0026a09_##¡iyo¡j¡iu¡j¡C¦ò±Ð¡iha¡j¦h¼hºc³y¡ide¡j¡ia¡j¡iri¡j¡BªÀ·|¡ino¡j¤W¼h¡ito¡j¤U¼h¡ini¡j¡io¡j¡ii¡j¡ite¡j
-W07n0000_p0026a10_##¡iha¡j¡B¡iso¡j¡ino¡j¬y¶Ç§ÎºA¡iga¡j¡ika¡j¡ina¡j¡iri¡j²§¡ina¡j¡itsu¡j¡ite¡j¡ii¡j¡iru¡j¡C¡iko¡j¡ire¡j¡ima¡j¡ide¡j§ÚÆà¡iha¡j
+W07n0000_p0026a10_##¡iha¡j¡B¡iso¡j¡ino¡j¬y¶Ç§ÎºA¡iga¡j¡ika¡j¡ina¡j¡iri¡j²§¡ina¡j¡itsu¡j¡ite¡j¡ii¡j¡iru¡j¡C¡iko¡j¡ire¡j¡ima¡j¡ide¡j§Ú[?¤i]¡iha¡j
 W07n0000_p0026a11_##«eªÌ¡]¤W¼hªÀ·|¡ino¡j¬y¶Ç§ÎºA¡^¡ini¡j¡itsu¡j¡ii¡j¡ite¡j¼ôª¾¡ishi¡j¡ite¡j¡ii¡j¡ita¡j¡iga¡j¡Bªü
 W07n0000_p0026a12_##¦\¤O±Ð¡ino¡j¸ê®Æ¡iha¡j«áªÌ¡]¤U¼hªÀ·|¡ino¡j¬y¶Ç§ÎºA¡^¡ini¡j¬Û·í¡isu¡j¡iru¡j¸ê
 W07n0000_p0026a13_##®Æ¡ide¡j¡ia¡j¡iru¡j¡C¤µ¦^µoªí¡isu¡j¡iru¡jªü¦\¤O±Ð¡ino¡j¸ê®Æ¡iha¡j¤GºØ¡ia¡j¡iri¡j¡B¡iu¡j¡ichi¡j
@@ -658,7 +658,7 @@ W07n0000_p0026a16_##¡ire¡j¡ita¡j¡iko¡j¡ito¡j¡iha¡j¡ina¡j¡ika¡j¡itsu¡j¡ita¡j¡C¤µ¦
 W07n0000_p0026a17_##¡itsu¡j¡ino¡j¸ê®Æ¡iha¡j¡m¦ò»¡®ø¨a©µ¹ØÃÄ®vÄé³»³¹¥y»ö¡n¡ide¡j¡ia¡j¡iru¡j¡C¡iko¡j¡ire¡j
 W07n0000_p0026a18_##¡iha¡j¡mÃÄ®v¸g¡n¡ini¡j¡imo¡j¡ito¡j¡idu¡j¡ii¡j¡ite¡j½sÄ¡¡isa¡j¡ire¡j¡ita¡j¦ò±Ð»ö­y¡ini¡j¡ishi¡j¡ite¡j¡B¥Á
 W07n0000_p0026a19_##¶¡¡ide¡j¡ino¡j¼vÅT¡iha¡j¤j¡iki¡j¡iku¡j¡B­Y¤z¡ino¡j¥Á«U¬¡°Ê¡ini¡j¡ima¡j¡ide¡j¡imo¡j¤Î¡in¡j¡ide¡j¡ii¡j¡iru¡j¡C
-W07n0000_p0026a20_##§ÚÆà¡iga¡j´°·×¿ò®Ñ¡iwo¡j¨£¡ita¡j¡ito¡j¡iko¡j¡iro¡j¡ide¡j¡B¡iso¡j¡iko¡j¡ini¡j´°·×¡ino¡j¤HÆà¡ino¡j·í®É
+W07n0000_p0026a20_##§Ú[?¤i]¡iga¡j´°·×¿ò®Ñ¡iwo¡j¨£¡ita¡j¡ito¡j¡iko¡j¡iro¡j¡ide¡j¡B¡iso¡j¡iko¡j¡ini¡j´°·×¡ino¡j¤H[?¤i]¡ino¡j·í®É
 W07n0000_p0026a21_##¡ino¡j¬¡°Ê¡iwo¡j¡iha¡j¡itsu¡j¡iki¡j¡iri¡j¡ito¡j¡iha¡jª¾¡iri¡j¡ie¡j¡ina¡j¡ii¡j¡iga¡j¡B¡iko¡j¡ino¡j»ö­y¸ê®Æ¡B¡iso¡j¡ishi¡j
 W07n0000_p0026a22_##¡ite¡j§ó¡ini¡j¡mÃÄ®v¸g¡n¡iwo¡jÅª¡imu¡j¡iko¡j¡ito¡j¡ini¡j¡iyo¡j¡itsu¡j¡ite¡j¡B¡iso¡j¡iu¡j¡ishi¡j¡ita¡j¥Á«U¬¡°Ê
 W07n0000_p0026a23_##¡iga¡j¡iko¡j¡ino¡j»ö­y¡ini¡j¥Ñ¨Ó¡ishi¡j¡ite¡j¡ii¡j¡iru¡j¡iko¡j¡ito¡j¡iwo¡jª¾¡iru¡j¡iko¡j¡ito¡j¡iga¡j¡ide¡j¡iki¡j¡iru¡j¡ino¡j¡ide¡j
@@ -710,7 +710,7 @@ W07n0000_p0028a12_##<p,0,2>¤G¡itsu¡j¡ime¡j¡iha¡j¡B¡m¦aÂÃµÐÂÄ¤QÂN¤é¡n¡ide¡j¡ia¡j¡
 W07n0000_p0028a13_##·×¿ò®Ñ¤¤¡ide¡j¡imo¡j¦r¼Æ¡ino¡j¤Ö¡ina¡j¡ii¡jµu¡ii¡j¼g¥»¡ide¡j¡ia¡j¡iru¡j¡CÄY±K¡ini¡j¨¥¡ie¡j¡iba¡j
 W07n0000_p0028a14_##¦ò±Ð¡ino¡j¸g«ß½×¡ino¡j¡ido¡j¡ire¡j¡ini¡j¡imo¡jÄÝ¡isa¡j¡ina¡j¡ii¡j¤åÄm¡ide¡j¡B¡ita¡j¡ida¡j¹¬«U¡ino¡j¦ò±Ð
 W07n0000_p0028a15_##¬¡°Ê¡ini¡j¨Ï¥Î¡isa¡j¡ire¡j¡iru¡j¤@ºØ¡ino¡jÂN»ö¡ide¡j¡ia¡j¡iru¡j¡C¡iso¡j¡ino¡j¤º®e¡iha¡j¡B¨C¤ë¡ino¡j
-W07n0000_p0028a16_##©w¡ime¡j¡ira¡j¡ire¡j¡ita¡j¤é¡]¡ia¡j¡iwa¡j¡ise¡j¡ite¡j¤Q¤é¶¡¡^¡ini¡j¡B¤Ñ¬É¡ino¡j¯«Æà¡iga¡j­°¡iri¡j¡ite¡j
+W07n0000_p0028a16_##©w¡ime¡j¡ira¡j¡ire¡j¡ita¡j¤é¡]¡ia¡j¡iwa¡j¡ise¡j¡ite¡j¤Q¤é¶¡¡^¡ini¡j¡B¤Ñ¬É¡ino¡j¯«[?¤i]¡iga¡j­°¡iri¡j¡ite¡j
 W07n0000_p0028a17_##¡iki¡j¡ite¡j¨µ°j¡ishi¡j¦Òªv¡isu¡j¡iru¡j¡ito¡j¡ii¡j¡iu¡j¡imo¡j¡ino¡j¡ide¡j¡ia¡j¡iru¡j¡C¡iso¡j¡iko¡j¡ide¡j¡iko¡j¡ire¡j¡ira¡j¡ino¡j¤é
 W07n0000_p0028a18_##¡ini¡j¦ò¡iya¡jµÐÂÄ¡ino¡j¦W¡iwo¡j©À»w¡isu¡j¡iru¡j¡ito¡j¡B¡iso¡j¡ino¡jºÙ¦W¡ito¡j«ùÂN¡ini¡j¡iyo¡j¡itsu¡j¡ite¡j¡B
 W07n0000_p0028a19_##¡ii¡j¡ika¡j¡ina¡j¡iru¡j¦aº»¡ini¡j¡imo¡j¼Z¡ichi¡j¡iru¡j¡iko¡j¡ito¡j¡ina¡j¡iku¡j¡B¡ima¡j¡ita¡j¦ó§T¡imo¡j¡ino¡j¸o¡iwo¡j°£¡iku¡j
@@ -724,12 +724,12 @@ W07n0000_p0028a26_##²§¥»¡iga¡jµo¥Í¡isu¡j¡iru¡jª¬ªp¡iga¡j¡ia¡j¡iru¡j¡iga¡j¡B¡iko¡
 W07n0000_p0028a27_##Äm¡n¡ide¡j¡iha¡j¡iso¡j¡iu¡j¡ishi¡j¡ita¡j¤åÄm¡iwo¡j¼Æ¦h¡iku¡j¾ã²z¡ishi¡j¡ite¡j¡iki¡j¡ita¡j¡C¡iso¡j¡iu¡j¡ishi¡j¡ita¡j¤å
 W07n0000_p0028a28_##Äm¡ino¡j¾ã²z¡iwo¡j³q¡ishi¡j¡ite¡j¡B¦ò¨å¡iha¡j¬y¶Ç¡isu¡j¡iru¡j¡iu¡j¡ichi¡j¡ini¡jÅÜ¾E¡ishi¡j¡ite¡j¡iyu¡j¡iku¡j¡ito¡j
 W07n0000_p0029a01_##¡ii¡j¡iu¡j¡iko¡j¡ito¡j¡iwo¡j¡B¡iyo¡j¡iri¡j²`¡iku¡j»{ÃÑ¡isu¡j¡ibe¡j¡iki¡j¡ide¡j¡ia¡j¡iru¡j¡ito¡j¦Ò¡ie¡j¡iru¡j¡C¡iko¡j¡ino¡jÆ[
-W07n0000_p0029a02_##ÂI¡ika¡j¡ira¡j¤¤°ê¦ò±Ð¡ino¡j¨åÄy¡iwo¡j¨£¡iru¡j¡ito¡j¡B§ÚÆà¡ini¡j·s¡ita¡j¡ina¡j±Ò¥Ü¡iwo¡j»P¡ie¡j
+W07n0000_p0029a02_##ÂI¡ika¡j¡ira¡j¤¤°ê¦ò±Ð¡ino¡j¨åÄy¡iwo¡j¨£¡iru¡j¡ito¡j¡B§Ú[?¤i]¡ini¡j·s¡ita¡j¡ina¡j±Ò¥Ü¡iwo¡j»P¡ie¡j
 W07n0000_p0029a03_##¡ite¡j¡iku¡j¡ire¡j¡iru¡j¡ide¡j¡ia¡j¡iro¡j¡iu¡j¡C
 W07n0000_p0029a04_##<p,0,2>¦è®L¡iha¡jÄÒ¶µ±Ú¡iga¡j«Ø¡ite¡j¡ita¡j¤ý´Â¡ide¡j¥_§º¡iya¡j¿ñ¡ito¡j¹©¥ß¡ishi¡j¡B¦ò±Ð
-W07n0000_p0029a05_##¡iwo¡j±R«ô¡ishi¡j¡ite¡j¤j¶q¡ino¡j¸g¨å¡iwo¡jÂ½Ä¶¡ishi¡j¡ita¡j¡C¡iko¡j¡ire¡j¡ima¡j¡ide¡j§ÚÆà¡iha¡j¦è®L¦ò
-W07n0000_p0029a06_##±Ð¡iwo¡j¡iyo¡j¡iku¡jª¾¡ira¡j¡ina¡j¡ika¡j¡itsu¡j¡ita¡j¡iga¡j¡B¤GÆâ¥@¬ö¡ini¡j¡ina¡j¡itsu¡j¡ite¡j¦è®L¡ino¡j¬G¦a¡ika¡j
-W07n0000_p0029a07_##¡ira¡j¦h¡iku¡j¡ino¡j¦ò±Ð¸ê®Æ¡iga¡jµo¨£¡isa¡j¡ire¡j¡iru¡j¡ini¡j¡ito¡j¡imo¡j¡ina¡j¡ii¡j¡B¡ishi¡j¡ida¡j¡ii¡j¡ini¡j§ÚÆà
+W07n0000_p0029a05_##¡iwo¡j±R«ô¡ishi¡j¡ite¡j¤j¶q¡ino¡j¸g¨å¡iwo¡jÂ½Ä¶¡ishi¡j¡ita¡j¡C¡iko¡j¡ire¡j¡ima¡j¡ide¡j§Ú[?¤i]¡iha¡j¦è®L¦ò
+W07n0000_p0029a06_##±Ð¡iwo¡j¡iyo¡j¡iku¡jª¾¡ira¡j¡ina¡j¡ika¡j¡itsu¡j¡ita¡j¡iga¡j¡B¤G¡³¥@¬ö¡ini¡j¡ina¡j¡itsu¡j¡ite¡j¦è®L¡ino¡j¬G¦a¡ika¡j
+W07n0000_p0029a07_##¡ira¡j¦h¡iku¡j¡ino¡j¦ò±Ð¸ê®Æ¡iga¡jµo¨£¡isa¡j¡ire¡j¡iru¡j¡ini¡j¡ito¡j¡imo¡j¡ina¡j¡ii¡j¡B¡ishi¡j¡ida¡j¡ii¡j¡ini¡j§Ú[?¤i]
 W07n0000_p0029a08_##¡ino¡jª¾ÃÑ¡iha¡jÂ×´I¡ini¡j¡ina¡j¡itsu¡j¡ite¡j¡iki¡j¡ita¡j¡C¼Æ¦~«e¡B¹ç®L¬Ù¡ino¡j¡ito¡j¡ia¡j¡iru¡j¦a°Ï
 W07n0000_p0029a09_##¡ini¡j¡ia¡j¡iru¡j¦è®L®É¥N¡ino¡j¤è¶ð¡iga¡j¤£ªk¡ino¡j½ú¡ini¡j¡iyo¡j¡itsu¡j¡ite¡j­ËÃa¡isa¡j¡ire¡j¡B¡iso¡j¡ino¡j
 W07n0000_p0029a10_##¤¤¡ika¡j¡ira¡j¡ima¡j¡ito¡j¡ima¡j¡itsu¡j¡ita¡j¦è®L¡ino¡j¤åª«¡iga¡jµo¨£¡isa¡j¡ire¡j¡ita¡j¡C¡iso¡j¡iko¡j¡ini¡j¡iha¡j¦è®L
@@ -756,10 +756,10 @@ W07n0000_p0030a02_##¡iha¡j¡iko¡j¡ire¡j¡iwo¡j¿ëÅ@¡isu¡j¡ibe¡j¡iku¡j¡B¦ò±Ð¡ino¡j§µ
 W07n0000_p0030a03_##¡iru¡j¡ito¡j»¡¡iku¡j¡iyo¡j¡iu¡j¡ini¡j¡ina¡j¡iru¡j¡C¡mÂÃ¥~¦ò±Ð¤åÄm¡n²Ä¤K¿è¡ini¡jµoªí¿Ý©w
 W07n0000_p0030a04_##¡ino¡j¡m¦p¨Ó¼s§µ¤QºØ³ø®¦¹D³õ»ö¡n¡iha¡j¡B¦ò±Ð¡ino¡j§µ¹D¡iga¡j¡ii¡j¡ika¡j¡ini¡jÀu
 W07n0000_p0030a05_##¡ire¡j¡ita¡j¡imo¡j¡ino¡j¡ide¡j¡ia¡j¡iru¡j¡ika¡j¡iwo¡j»¡¡ii¡j¡ite¡j¡ii¡j¡iru¡j¡C¡iha¡j¡ita¡j¡ishi¡j¡ite¡j¦ò±Ð¡ino¡j§µ¹D¡ino¡j¯u
-W07n0000_p0030a06_##·N¡ito¡j¡iha¡j¦ó¡ide¡j¡ia¡j¡iro¡j¡iu¡j¡ika¡j¡H¡@¡iko¡j¡ino¡j¡m¦ò³»¤ßªûÃ¹¥§¸g¡n¡iha¡j¡B§ÚÆà
+W07n0000_p0030a06_##·N¡ito¡j¡iha¡j¦ó¡ide¡j¡ia¡j¡iro¡j¡iu¡j¡ika¡j¡H¡@¡iko¡j¡ino¡j¡m¦ò³»¤ßªûÃ¹¥§¸g¡n¡iha¡j¡B§Ú[?¤i]
 W07n0000_p0030a07_##¡ini¡j¡iso¡j¡ire¡j¡iwo¡j±Ð¡ie¡j¡ite¡j¡iku¡j¡ire¡j¡iru¡j¡C
 W07n0000_p0030a08_##<p,0,2>¡ima¡j¡ita¡j¯S¡ini¡j·Q°_¡isa¡j¡ire¡j¡iru¡j¡iko¡j¡ito¡j¡iha¡j¡B¡iko¡j¡ino¡j¡ita¡j¡ibi¡jµo¨£¡isa¡j¡ire¡j¡ita¡j¹ç®L
-W07n0000_p0030a09_##¬Ù¤è¶ð¤åÄm¡ino¡j¸Ë¤B¼Ë¦¡¡ide¡j¡ia¡j¡iri¡j¡B¡iso¡j¡ire¡j¡iha¡j¡iko¡j¡ire¡j¡ima¡j¡ide¡j§ÚÆà¡ino¡jª¾¡ira¡j
+W07n0000_p0030a09_##¬Ù¤è¶ð¤åÄm¡ino¡j¸Ë¤B¼Ë¦¡¡ide¡j¡ia¡j¡iri¡j¡B¡iso¡j¡ire¡j¡iha¡j¡iko¡j¡ire¡j¡ima¡j¡ide¡j§Ú[?¤i]¡ino¡jª¾¡ira¡j
 W07n0000_p0030a10_##¡ina¡j¡ika¡j¡itsu¡j¡ita¡j·s¸ê®Æ¡iwo¡j´£¨Ñ¡ishi¡j¡ite¡j¡ii¡j¡iru¡j¡ino¡j¡ide¡j¡ia¡j¡iru¡j¡C¡iko¡j¡ire¡j¡ima¡j¡ide¡j¤¤°ê®Ñ
 W07n0000_p0030a11_##¥v¡ino¡jµÛ§@¡iya¡j½×¤å¡ide¡j¡iha¡j¡B¨÷¤l¡B¨©¸­¡B§é¥»¡B½¹½º¡ina¡j¡ido¡j¡iwo¡j¡ito¡j¡iri¡j
 W07n0000_p0030a12_##¡ia¡j¡ige¡j¡iru¡j¡iko¡j¡ito¡j¡iha¡j¡ia¡j¡itsu¡j¡ite¡j¡imo¡j¡BÖß¸­¡iya¡jÁ_ðr¡ina¡j¡ido¡j¡ino¡j¸Ë¤B¼Ë¦¡¡iwo¡j¡ito¡j¡iri¡j
@@ -786,7 +786,7 @@ W07n0000_p0031a04_##¡iko¡j¡ini¡j´¦¸ü¡isu¡j¡iru¡j¡iwa¡j¡ike¡j¡ide¡j¡ia¡j¡iru¡j¡C¤
 W07n0000_p0031a05_##¡ini¡j°Ñ¦Ò¡ini¡j¡ina¡j¡iru¡j¡imo¡j¡ino¡j¡ito¡j¦Ò¡ie¡j¡iru¡j¡C
 W07n0000_p0031a06_##<p,0,2>¦ò±Ð¡ide¡j¡iha¡j¡u½Ñ¦æµL±`¡v¡iwo¡j»¡¡iku¡j¡C¡mÂÃ¥~¦ò±Ð¤åÄm¡n¡iha¡jµo
 W07n0000_p0031a07_##¨¬¡iyo¡j¡iri¡j²{¦b¡ini¡j¦Ü¡iru¡j¡ima¡j¡ide¡j¡B¡isu¡j¡ide¡j¡ini¡j¤»¦~¡iga¡j¸g¹L¡ishi¡j¡ita¡j¡C¤»¦~¡iha¡j¨M
-W07n0000_p0031a08_##¡ishi¡j¡ite¡jµu¡ii¡j¡ito¡j¡iha¡j¨¥¡ie¡j¡ina¡j¡ii¡j¡C¡iko¡j¡ino¡j¶¡¡ini¡j¡iha¡j¼ËÆà¡ina¡j§xÃø¡iga¡j¡ia¡j¡itsu¡j¡ita¡j¡C
+W07n0000_p0031a08_##¡ishi¡j¡ite¡jµu¡ii¡j¡ito¡j¡iha¡j¨¥¡ie¡j¡ina¡j¡ii¡j¡C¡iko¡j¡ino¡j¶¡¡ini¡j¡iha¡j¼Ë[?¤i]¡ina¡j§xÃø¡iga¡j¡ia¡j¡itsu¡j¡ita¡j¡C
 W07n0000_p0031a09_##½s¶°©e­û·|¡ino¡jºc¦¨­û¡ini¡j¤j¡iki¡j¡ina¡j²¾°Ê¡iga¡j¡ia¡j¡iri¡j¡B§@·~¤èªk¡imo¡j¡ima¡j¡ita¡j
 W07n0000_p0031a10_##¬ÛÀ³¡ino¡j½Õ¾ã¡iwo¡j¡ishi¡j¡ita¡j¡C¤»¦~«e¡B­»´ä¡ino¡j§Ó½¬²b­b¡ino¡j¸êª÷´©§U¡iwo¡j
 W07n0000_p0031a11_##¡iu¡j¡ike¡j¡B­W¡ishi¡j¡ii¡j¤¤¡ini¡j¡imo¡j§@·~¡iwo¡j¶i¡ime¡j¡iru¡j¡iko¡j¡ito¡j¡iga¡j¡ide¡j¡iki¡j¡B¡iso¡j¡ino¡j«á¡imo¡j§Ó
